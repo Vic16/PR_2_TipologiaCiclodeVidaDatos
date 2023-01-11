@@ -1,304 +1,298 @@
-age|sex|cp|trestbps|chol|fbs|restecg|thalach|exang|oldpeak|slope|ca|thal|num
-63.0|Male|atypical angina|145.0|233.0|fastingBloodSugar_true|Left ventricular hypertrophy|150.0|Yes Angina|2.3|downsloping|0.0|fixed defect|0
-67.0|Male|typical angina|160.0|286.0|fastingBloodSugar_false|Left ventricular hypertrophy|108.0|No Angina|1.5|flat|3.0|normal|1
-67.0|Male|typical angina|120.0|229.0|fastingBloodSugar_false|Left ventricular hypertrophy|129.0|No Angina|2.6|flat|2.0|reversable defect|1
-37.0|Male|asymptomatic|130.0|250.0|fastingBloodSugar_false|Normal|187.0|Yes Angina|3.5|downsloping|0.0|normal|0
-41.0|Female|non-anginal pain|130.0|204.0|fastingBloodSugar_false|Left ventricular hypertrophy|172.0|Yes Angina|1.4|upsloping|0.0|normal|0
-56.0|Male|non-anginal pain|120.0|236.0|fastingBloodSugar_false|Normal|178.0|Yes Angina|0.8|upsloping|0.0|normal|0
-62.0|Female|typical angina|140.0|268.0|fastingBloodSugar_false|Left ventricular hypertrophy|160.0|Yes Angina|3.6|downsloping|2.0|normal|1
-57.0|Female|typical angina|120.0|354.0|fastingBloodSugar_false|Normal|163.0|No Angina|0.6|upsloping|0.0|normal|0
-63.0|Male|typical angina|130.0|254.0|fastingBloodSugar_false|Left ventricular hypertrophy|147.0|Yes Angina|1.4|flat|1.0|reversable defect|1
-53.0|Male|typical angina|140.0|203.0|fastingBloodSugar_true|Left ventricular hypertrophy|155.0|No Angina|3.1|downsloping|0.0|reversable defect|1
-57.0|Male|typical angina|140.0|192.0|fastingBloodSugar_false|Normal|148.0|Yes Angina|0.4|flat|0.0|fixed defect|0
-56.0|Female|non-anginal pain|140.0|294.0|fastingBloodSugar_false|Left ventricular hypertrophy|153.0|Yes Angina|1.3|flat|0.0|normal|0
-56.0|Male|asymptomatic|130.0|256.0|fastingBloodSugar_true|Left ventricular hypertrophy|142.0|No Angina|0.6|flat|1.0|fixed defect|1
-44.0|Male|non-anginal pain|120.0|263.0|fastingBloodSugar_false|Normal|173.0|Yes Angina|0.0|upsloping|0.0|reversable defect|0
-52.0|Male|asymptomatic|172.0|199.0|fastingBloodSugar_true|Normal|162.0|Yes Angina|0.5|upsloping|0.0|reversable defect|0
-57.0|Male|asymptomatic|150.0|168.0|fastingBloodSugar_false|Normal|174.0|Yes Angina|1.6|upsloping|0.0|normal|0
-48.0|Male|non-anginal pain|110.0|229.0|fastingBloodSugar_false|Normal|168.0|Yes Angina|1.0|downsloping|0.0|reversable defect|1
-54.0|Male|typical angina|140.0|239.0|fastingBloodSugar_false|Normal|160.0|Yes Angina|1.2|upsloping|0.0|normal|0
-48.0|Female|asymptomatic|130.0|275.0|fastingBloodSugar_false|Normal|139.0|Yes Angina|0.2|upsloping|0.0|normal|0
-49.0|Male|non-anginal pain|130.0|266.0|fastingBloodSugar_false|Normal|171.0|Yes Angina|0.6|upsloping|0.0|normal|0
-64.0|Male|atypical angina|110.0|211.0|fastingBloodSugar_false|Left ventricular hypertrophy|144.0|No Angina|1.8|flat|0.0|normal|0
-58.0|Female|atypical angina|150.0|283.0|fastingBloodSugar_true|Left ventricular hypertrophy|162.0|Yes Angina|1.0|upsloping|0.0|normal|0
-58.0|Male|non-anginal pain|120.0|284.0|fastingBloodSugar_false|Left ventricular hypertrophy|160.0|Yes Angina|1.8|flat|0.0|normal|1
-58.0|Male|asymptomatic|132.0|224.0|fastingBloodSugar_false|Left ventricular hypertrophy|173.0|Yes Angina|3.2|upsloping|2.0|reversable defect|1
-60.0|Male|typical angina|130.0|206.0|fastingBloodSugar_false|Left ventricular hypertrophy|132.0|No Angina|2.4|flat|2.0|reversable defect|1
-50.0|Female|asymptomatic|120.0|219.0|fastingBloodSugar_false|Normal|158.0|Yes Angina|1.6|flat|0.0|normal|0
-58.0|Female|asymptomatic|120.0|340.0|fastingBloodSugar_false|Normal|172.0|Yes Angina|0.0|upsloping|0.0|normal|0
-66.0|Female|atypical angina|150.0|226.0|fastingBloodSugar_false|Normal|114.0|Yes Angina|2.6|downsloping|0.0|normal|0
-43.0|Male|typical angina|150.0|247.0|fastingBloodSugar_false|Normal|171.0|Yes Angina|1.5|upsloping|0.0|normal|0
-40.0|Male|typical angina|110.0|167.0|fastingBloodSugar_false|Left ventricular hypertrophy|114.0|No Angina|2.0|flat|0.0|reversable defect|1
-69.0|Female|atypical angina|140.0|239.0|fastingBloodSugar_false|Normal|151.0|Yes Angina|1.8|upsloping|2.0|normal|0
-60.0|Male|typical angina|117.0|230.0|fastingBloodSugar_true|Normal|160.0|No Angina|1.4|upsloping|2.0|reversable defect|1
-64.0|Male|asymptomatic|140.0|335.0|fastingBloodSugar_false|Normal|158.0|Yes Angina|0.0|upsloping|0.0|normal|1
-59.0|Male|typical angina|135.0|234.0|fastingBloodSugar_false|Normal|161.0|Yes Angina|0.5|flat|0.0|reversable defect|0
-44.0|Male|asymptomatic|130.0|233.0|fastingBloodSugar_false|Normal|179.0|No Angina|0.4|upsloping|0.0|normal|0
-42.0|Male|typical angina|140.0|226.0|fastingBloodSugar_false|Normal|178.0|Yes Angina|0.0|upsloping|0.0|normal|0
-43.0|Male|typical angina|120.0|177.0|fastingBloodSugar_false|Left ventricular hypertrophy|120.0|No Angina|2.5|flat|0.0|reversable defect|1
-57.0|Male|typical angina|150.0|276.0|fastingBloodSugar_false|Left ventricular hypertrophy|112.0|No Angina|0.6|flat|1.0|fixed defect|1
-55.0|Male|typical angina|132.0|353.0|fastingBloodSugar_false|Normal|132.0|No Angina|1.2|flat|1.0|reversable defect|1
-61.0|Male|asymptomatic|150.0|243.0|fastingBloodSugar_true|Normal|137.0|No Angina|1.0|flat|0.0|normal|0
-65.0|Female|typical angina|150.0|225.0|fastingBloodSugar_false|Left ventricular hypertrophy|114.0|Yes Angina|1.0|flat|3.0|reversable defect|1
-40.0|Male|atypical angina|140.0|199.0|fastingBloodSugar_false|Normal|178.0|No Angina|1.4|upsloping|0.0|reversable defect|0
-71.0|Female|non-anginal pain|160.0|302.0|fastingBloodSugar_false|Normal|162.0|Yes Angina|0.4|upsloping|2.0|normal|0
-59.0|Male|asymptomatic|150.0|212.0|fastingBloodSugar_true|Normal|157.0|Yes Angina|1.6|upsloping|0.0|normal|0
-61.0|Female|typical angina|130.0|330.0|fastingBloodSugar_false|Left ventricular hypertrophy|169.0|Yes Angina|0.0|upsloping|0.0|normal|1
-58.0|Male|asymptomatic|112.0|230.0|fastingBloodSugar_false|Left ventricular hypertrophy|165.0|Yes Angina|2.5|flat|1.0|reversable defect|1
-51.0|Male|asymptomatic|110.0|175.0|fastingBloodSugar_false|Normal|123.0|Yes Angina|0.6|upsloping|0.0|normal|0
-50.0|Male|typical angina|150.0|243.0|fastingBloodSugar_false|Left ventricular hypertrophy|128.0|Yes Angina|2.6|flat|0.0|reversable defect|1
-65.0|Female|asymptomatic|140.0|417.0|fastingBloodSugar_true|Left ventricular hypertrophy|157.0|Yes Angina|0.8|upsloping|1.0|normal|0
-53.0|Male|asymptomatic|130.0|197.0|fastingBloodSugar_true|Left ventricular hypertrophy|152.0|Yes Angina|1.2|downsloping|0.0|normal|0
-41.0|Female|non-anginal pain|105.0|198.0|fastingBloodSugar_false|Normal|168.0|Yes Angina|0.0|upsloping|1.0|normal|0
-65.0|Male|typical angina|120.0|177.0|fastingBloodSugar_false|Normal|140.0|Yes Angina|0.4|upsloping|0.0|reversable defect|0
-44.0|Male|typical angina|112.0|290.0|fastingBloodSugar_false|Left ventricular hypertrophy|153.0|Yes Angina|0.0|upsloping|1.0|normal|1
-44.0|Male|non-anginal pain|130.0|219.0|fastingBloodSugar_false|Left ventricular hypertrophy|188.0|Yes Angina|0.0|upsloping|0.0|normal|0
-60.0|Male|typical angina|130.0|253.0|fastingBloodSugar_false|Normal|144.0|No Angina|1.4|upsloping|1.0|reversable defect|1
-54.0|Male|typical angina|124.0|266.0|fastingBloodSugar_false|Left ventricular hypertrophy|109.0|No Angina|2.2|flat|1.0|reversable defect|1
-50.0|Male|asymptomatic|140.0|233.0|fastingBloodSugar_false|Normal|163.0|Yes Angina|0.6|flat|1.0|reversable defect|1
-41.0|Male|typical angina|110.0|172.0|fastingBloodSugar_false|Left ventricular hypertrophy|158.0|Yes Angina|0.0|upsloping|0.0|reversable defect|1
-54.0|Male|asymptomatic|125.0|273.0|fastingBloodSugar_false|Left ventricular hypertrophy|152.0|Yes Angina|0.5|downsloping|1.0|normal|0
-51.0|Male|atypical angina|125.0|213.0|fastingBloodSugar_false|Left ventricular hypertrophy|125.0|No Angina|1.4|upsloping|1.0|normal|0
-51.0|Female|typical angina|130.0|305.0|fastingBloodSugar_false|Normal|142.0|No Angina|1.2|flat|0.0|reversable defect|1
-46.0|Female|asymptomatic|142.0|177.0|fastingBloodSugar_false|Left ventricular hypertrophy|160.0|No Angina|1.4|downsloping|0.0|normal|0
-58.0|Male|typical angina|128.0|216.0|fastingBloodSugar_false|Left ventricular hypertrophy|131.0|No Angina|2.2|flat|3.0|reversable defect|1
-54.0|Female|asymptomatic|135.0|304.0|fastingBloodSugar_true|Normal|170.0|Yes Angina|0.0|upsloping|0.0|normal|0
-54.0|Male|typical angina|120.0|188.0|fastingBloodSugar_false|Normal|113.0|Yes Angina|1.4|flat|1.0|reversable defect|1
-60.0|Male|typical angina|145.0|282.0|fastingBloodSugar_false|Left ventricular hypertrophy|142.0|No Angina|2.8|flat|2.0|reversable defect|1
-60.0|Male|asymptomatic|140.0|185.0|fastingBloodSugar_false|Left ventricular hypertrophy|155.0|Yes Angina|3.0|flat|0.0|normal|1
-54.0|Male|asymptomatic|150.0|232.0|fastingBloodSugar_false|Left ventricular hypertrophy|165.0|Yes Angina|1.6|upsloping|0.0|reversable defect|0
-59.0|Male|typical angina|170.0|326.0|fastingBloodSugar_false|Left ventricular hypertrophy|140.0|No Angina|3.4|downsloping|0.0|reversable defect|1
-46.0|Male|asymptomatic|150.0|231.0|fastingBloodSugar_false|Normal|147.0|Yes Angina|3.6|flat|0.0|normal|1
-65.0|Female|asymptomatic|155.0|269.0|fastingBloodSugar_false|Normal|148.0|Yes Angina|0.8|upsloping|0.0|normal|0
-67.0|Male|typical angina|125.0|254.0|fastingBloodSugar_true|Normal|163.0|Yes Angina|0.2|flat|2.0|reversable defect|1
-62.0|Male|typical angina|120.0|267.0|fastingBloodSugar_false|Normal|99.0|No Angina|1.8|flat|2.0|reversable defect|1
-65.0|Male|typical angina|110.0|248.0|fastingBloodSugar_false|Left ventricular hypertrophy|158.0|Yes Angina|0.6|upsloping|2.0|fixed defect|1
-44.0|Male|typical angina|110.0|197.0|fastingBloodSugar_false|Left ventricular hypertrophy|177.0|Yes Angina|0.0|upsloping|1.0|normal|1
-65.0|Female|asymptomatic|160.0|360.0|fastingBloodSugar_false|Left ventricular hypertrophy|151.0|Yes Angina|0.8|upsloping|0.0|normal|0
-60.0|Male|typical angina|125.0|258.0|fastingBloodSugar_false|Left ventricular hypertrophy|141.0|No Angina|2.8|flat|1.0|reversable defect|1
-51.0|Female|asymptomatic|140.0|308.0|fastingBloodSugar_false|Left ventricular hypertrophy|142.0|Yes Angina|1.5|upsloping|1.0|normal|0
-48.0|Male|non-anginal pain|130.0|245.0|fastingBloodSugar_false|Left ventricular hypertrophy|180.0|Yes Angina|0.2|flat|0.0|normal|0
-58.0|Male|typical angina|150.0|270.0|fastingBloodSugar_false|Left ventricular hypertrophy|111.0|No Angina|0.8|upsloping|0.0|reversable defect|1
-45.0|Male|typical angina|104.0|208.0|fastingBloodSugar_false|Left ventricular hypertrophy|148.0|No Angina|3.0|flat|0.0|normal|0
-53.0|Female|typical angina|130.0|264.0|fastingBloodSugar_false|Left ventricular hypertrophy|143.0|Yes Angina|0.4|flat|0.0|normal|0
-39.0|Male|asymptomatic|140.0|321.0|fastingBloodSugar_false|Left ventricular hypertrophy|182.0|Yes Angina|0.0|upsloping|0.0|normal|0
-68.0|Male|asymptomatic|180.0|274.0|fastingBloodSugar_true|Left ventricular hypertrophy|150.0|No Angina|1.6|flat|0.0|reversable defect|1
-52.0|Male|non-anginal pain|120.0|325.0|fastingBloodSugar_false|Normal|172.0|Yes Angina|0.2|upsloping|0.0|normal|0
-44.0|Male|asymptomatic|140.0|235.0|fastingBloodSugar_false|Left ventricular hypertrophy|180.0|Yes Angina|0.0|upsloping|0.0|normal|0
-47.0|Male|asymptomatic|138.0|257.0|fastingBloodSugar_false|Left ventricular hypertrophy|156.0|Yes Angina|0.0|upsloping|0.0|normal|0
-53.0|Female|asymptomatic|128.0|216.0|fastingBloodSugar_false|Left ventricular hypertrophy|115.0|Yes Angina|0.0|upsloping|0.0||0
-53.0|Female|typical angina|138.0|234.0|fastingBloodSugar_false|Left ventricular hypertrophy|160.0|Yes Angina|0.0|upsloping|0.0|normal|0
-51.0|Female|asymptomatic|130.0|256.0|fastingBloodSugar_false|Left ventricular hypertrophy|149.0|Yes Angina|0.5|upsloping|0.0|normal|0
-66.0|Male|typical angina|120.0|302.0|fastingBloodSugar_false|Left ventricular hypertrophy|151.0|Yes Angina|0.4|flat|0.0|normal|0
-62.0|Female|typical angina|160.0|164.0|fastingBloodSugar_false|Left ventricular hypertrophy|145.0|Yes Angina|6.2|downsloping|3.0|reversable defect|1
-62.0|Male|asymptomatic|130.0|231.0|fastingBloodSugar_false|Normal|146.0|Yes Angina|1.8|flat|3.0|reversable defect|0
-44.0|Female|asymptomatic|108.0|141.0|fastingBloodSugar_false|Normal|175.0|Yes Angina|0.6|flat|0.0|normal|0
-63.0|Female|asymptomatic|135.0|252.0|fastingBloodSugar_false|Left ventricular hypertrophy|172.0|Yes Angina|0.0|upsloping|0.0|normal|0
-52.0|Male|typical angina|128.0|255.0|fastingBloodSugar_false|Normal|161.0|No Angina|0.0|upsloping|1.0|reversable defect|1
-59.0|Male|typical angina|110.0|239.0|fastingBloodSugar_false|Left ventricular hypertrophy|142.0|No Angina|1.2|flat|1.0|reversable defect|1
-60.0|Female|typical angina|150.0|258.0|fastingBloodSugar_false|Left ventricular hypertrophy|157.0|Yes Angina|2.6|flat|2.0|reversable defect|1
-52.0|Male|non-anginal pain|134.0|201.0|fastingBloodSugar_false|Normal|158.0|Yes Angina|0.8|upsloping|1.0|normal|0
-48.0|Male|typical angina|122.0|222.0|fastingBloodSugar_false|Left ventricular hypertrophy|186.0|Yes Angina|0.0|upsloping|0.0|normal|0
-45.0|Male|typical angina|115.0|260.0|fastingBloodSugar_false|Left ventricular hypertrophy|185.0|Yes Angina|0.0|upsloping|0.0|normal|0
-34.0|Male|atypical angina|118.0|182.0|fastingBloodSugar_false|Left ventricular hypertrophy|174.0|Yes Angina|0.0|upsloping|0.0|normal|0
-57.0|Female|typical angina|128.0|303.0|fastingBloodSugar_false|Left ventricular hypertrophy|159.0|Yes Angina|0.0|upsloping|1.0|normal|0
-71.0|Female|asymptomatic|110.0|265.0|fastingBloodSugar_true|Left ventricular hypertrophy|130.0|Yes Angina|0.0|upsloping|1.0|normal|0
-49.0|Male|asymptomatic|120.0|188.0|fastingBloodSugar_false|Normal|139.0|Yes Angina|2.0|flat|3.0|reversable defect|1
-54.0|Male|non-anginal pain|108.0|309.0|fastingBloodSugar_false|Normal|156.0|Yes Angina|0.0|upsloping|0.0|reversable defect|0
-59.0|Male|typical angina|140.0|177.0|fastingBloodSugar_false|Normal|162.0|No Angina|0.0|upsloping|1.0|reversable defect|1
-57.0|Male|asymptomatic|128.0|229.0|fastingBloodSugar_false|Left ventricular hypertrophy|150.0|Yes Angina|0.4|flat|1.0|reversable defect|1
-61.0|Male|typical angina|120.0|260.0|fastingBloodSugar_false|Normal|140.0|No Angina|3.6|flat|1.0|reversable defect|1
-39.0|Male|typical angina|118.0|219.0|fastingBloodSugar_false|Normal|140.0|Yes Angina|1.2|flat|0.0|reversable defect|1
-61.0|Female|typical angina|145.0|307.0|fastingBloodSugar_false|Left ventricular hypertrophy|146.0|No Angina|1.0|flat|0.0|reversable defect|1
-56.0|Male|typical angina|125.0|249.0|fastingBloodSugar_true|Left ventricular hypertrophy|144.0|No Angina|1.2|flat|1.0|normal|1
-52.0|Male|atypical angina|118.0|186.0|fastingBloodSugar_false|Left ventricular hypertrophy|190.0|Yes Angina|0.0|flat|0.0|fixed defect|0
-43.0|Female|typical angina|132.0|341.0|fastingBloodSugar_true|Left ventricular hypertrophy|136.0|No Angina|3.0|flat|0.0|reversable defect|1
-62.0|Female|asymptomatic|130.0|263.0|fastingBloodSugar_false|Normal|97.0|Yes Angina|1.2|flat|1.0|reversable defect|1
-41.0|Male|non-anginal pain|135.0|203.0|fastingBloodSugar_false|Normal|132.0|Yes Angina|0.0|flat|0.0|fixed defect|0
-58.0|Male|asymptomatic|140.0|211.0|fastingBloodSugar_true|Left ventricular hypertrophy|165.0|Yes Angina|0.0|upsloping|0.0|normal|0
-35.0|Female|typical angina|138.0|183.0|fastingBloodSugar_false|Normal|182.0|Yes Angina|1.4|upsloping|0.0|normal|0
-63.0|Male|typical angina|130.0|330.0|fastingBloodSugar_true|Left ventricular hypertrophy|132.0|No Angina|1.8|upsloping|3.0|reversable defect|1
-65.0|Male|typical angina|135.0|254.0|fastingBloodSugar_false|Left ventricular hypertrophy|127.0|Yes Angina|2.8|flat|1.0|reversable defect|1
-48.0|Male|typical angina|130.0|256.0|fastingBloodSugar_true|Left ventricular hypertrophy|150.0|No Angina|0.0|upsloping|2.0|reversable defect|1
-63.0|Female|typical angina|150.0|407.0|fastingBloodSugar_false|Left ventricular hypertrophy|154.0|Yes Angina|4.0|flat|3.0|reversable defect|1
-51.0|Male|asymptomatic|100.0|222.0|fastingBloodSugar_false|Normal|143.0|No Angina|1.2|flat|0.0|normal|0
-55.0|Male|typical angina|140.0|217.0|fastingBloodSugar_false|Normal|111.0|No Angina|5.6|downsloping|0.0|reversable defect|1
-65.0|Male|atypical angina|138.0|282.0|fastingBloodSugar_true|Left ventricular hypertrophy|174.0|Yes Angina|1.4|flat|1.0|normal|1
-45.0|Female|non-anginal pain|130.0|234.0|fastingBloodSugar_false|Left ventricular hypertrophy|175.0|Yes Angina|0.6|flat|0.0|normal|0
-56.0|Female|typical angina|200.0|288.0|fastingBloodSugar_true|Left ventricular hypertrophy|133.0|No Angina|4.0|downsloping|2.0|reversable defect|1
-54.0|Male|typical angina|110.0|239.0|fastingBloodSugar_false|Normal|126.0|No Angina|2.8|flat|1.0|reversable defect|1
-44.0|Male|non-anginal pain|120.0|220.0|fastingBloodSugar_false|Normal|170.0|Yes Angina|0.0|upsloping|0.0|normal|0
-62.0|Female|typical angina|124.0|209.0|fastingBloodSugar_false|Normal|163.0|Yes Angina|0.0|upsloping|0.0|normal|0
-54.0|Male|asymptomatic|120.0|258.0|fastingBloodSugar_false|Left ventricular hypertrophy|147.0|Yes Angina|0.4|flat|0.0|reversable defect|0
-51.0|Male|asymptomatic|94.0|227.0|fastingBloodSugar_false|Normal|154.0|No Angina|0.0|upsloping|1.0|reversable defect|0
-29.0|Male|non-anginal pain|130.0|204.0|fastingBloodSugar_false|Left ventricular hypertrophy|202.0|Yes Angina|0.0|upsloping|0.0|normal|0
-51.0|Male|typical angina|140.0|261.0|fastingBloodSugar_false|Left ventricular hypertrophy|186.0|No Angina|0.0|upsloping|0.0|normal|0
-43.0|Female|asymptomatic|122.0|213.0|fastingBloodSugar_false|Normal|165.0|Yes Angina|0.2|flat|0.0|normal|0
-55.0|Female|non-anginal pain|135.0|250.0|fastingBloodSugar_false|Left ventricular hypertrophy|161.0|Yes Angina|1.4|flat|0.0|normal|0
-70.0|Male|typical angina|145.0|174.0|fastingBloodSugar_false|Normal|125.0|No Angina|2.6|downsloping|0.0|reversable defect|1
-62.0|Male|non-anginal pain|120.0|281.0|fastingBloodSugar_false|Left ventricular hypertrophy|103.0|Yes Angina|1.4|flat|1.0|reversable defect|1
-35.0|Male|typical angina|120.0|198.0|fastingBloodSugar_false|Normal|130.0|No Angina|1.6|flat|0.0|reversable defect|1
-51.0|Male|asymptomatic|125.0|245.0|fastingBloodSugar_true|Left ventricular hypertrophy|166.0|Yes Angina|2.4|flat|0.0|normal|0
-59.0|Male|non-anginal pain|140.0|221.0|fastingBloodSugar_false|Normal|164.0|No Angina|0.0|upsloping|0.0|normal|0
-59.0|Male|atypical angina|170.0|288.0|fastingBloodSugar_false|Left ventricular hypertrophy|159.0|Yes Angina|0.2|flat|0.0|reversable defect|1
-52.0|Male|non-anginal pain|128.0|205.0|fastingBloodSugar_true|Normal|184.0|Yes Angina|0.0|upsloping|0.0|normal|0
-64.0|Male|asymptomatic|125.0|309.0|fastingBloodSugar_false|Normal|131.0|No Angina|1.8|flat|0.0|reversable defect|1
-58.0|Male|asymptomatic|105.0|240.0|fastingBloodSugar_false|Left ventricular hypertrophy|154.0|No Angina|0.6|flat|0.0|reversable defect|0
-47.0|Male|asymptomatic|108.0|243.0|fastingBloodSugar_false|Normal|152.0|Yes Angina|0.0|upsloping|0.0|normal|1
-57.0|Male|typical angina|165.0|289.0|fastingBloodSugar_true|Left ventricular hypertrophy|124.0|Yes Angina|1.0|flat|3.0|reversable defect|1
-41.0|Male|asymptomatic|112.0|250.0|fastingBloodSugar_false|Normal|179.0|Yes Angina|0.0|upsloping|0.0|normal|0
-45.0|Male|non-anginal pain|128.0|308.0|fastingBloodSugar_false|Left ventricular hypertrophy|170.0|Yes Angina|0.0|upsloping|0.0|normal|0
-60.0|Female|asymptomatic|102.0|318.0|fastingBloodSugar_false|Normal|160.0|Yes Angina|0.0|upsloping|1.0|normal|0
-52.0|Male|atypical angina|152.0|298.0|fastingBloodSugar_true|Normal|178.0|Yes Angina|1.2|flat|0.0|reversable defect|0
-42.0|Female|typical angina|102.0|265.0|fastingBloodSugar_false|Left ventricular hypertrophy|122.0|Yes Angina|0.6|flat|0.0|normal|0
-67.0|Female|asymptomatic|115.0|564.0|fastingBloodSugar_false|Left ventricular hypertrophy|160.0|Yes Angina|1.6|flat|0.0|reversable defect|0
-55.0|Male|typical angina|160.0|289.0|fastingBloodSugar_false|Left ventricular hypertrophy|145.0|No Angina|0.8|flat|1.0|reversable defect|1
-64.0|Male|typical angina|120.0|246.0|fastingBloodSugar_false|Left ventricular hypertrophy|96.0|No Angina|2.2|downsloping|1.0|normal|1
-70.0|Male|typical angina|130.0|322.0|fastingBloodSugar_false|Left ventricular hypertrophy|109.0|Yes Angina|2.4|flat|3.0|normal|1
-51.0|Male|typical angina|140.0|299.0|fastingBloodSugar_false|Normal|173.0|No Angina|1.6|upsloping|0.0|reversable defect|1
-58.0|Male|typical angina|125.0|300.0|fastingBloodSugar_false|Left ventricular hypertrophy|171.0|Yes Angina|0.0|upsloping|2.0|reversable defect|1
-60.0|Male|typical angina|140.0|293.0|fastingBloodSugar_false|Left ventricular hypertrophy|170.0|Yes Angina|1.2|flat|2.0|reversable defect|1
-68.0|Male|asymptomatic|118.0|277.0|fastingBloodSugar_false|Normal|151.0|Yes Angina|1.0|upsloping|1.0|reversable defect|0
-46.0|Male|non-anginal pain|101.0|197.0|fastingBloodSugar_true|Normal|156.0|Yes Angina|0.0|upsloping|0.0|reversable defect|0
-77.0|Male|typical angina|125.0|304.0|fastingBloodSugar_false|Left ventricular hypertrophy|162.0|No Angina|0.0|upsloping|3.0|normal|1
-54.0|Female|asymptomatic|110.0|214.0|fastingBloodSugar_false|Normal|158.0|Yes Angina|1.6|flat|0.0|normal|0
-58.0|Female|typical angina|100.0|248.0|fastingBloodSugar_false|Left ventricular hypertrophy|122.0|Yes Angina|1.0|flat|0.0|normal|0
-48.0|Male|asymptomatic|124.0|255.0|fastingBloodSugar_true|Normal|175.0|Yes Angina|0.0|upsloping|2.0|normal|0
-57.0|Male|typical angina|132.0|207.0|fastingBloodSugar_false|Normal|168.0|No Angina|0.0|upsloping|0.0|reversable defect|0
-52.0|Male|asymptomatic|138.0|223.0|fastingBloodSugar_false|Normal|169.0|Yes Angina|0.0|upsloping||normal|0
-54.0|Female|non-anginal pain|132.0|288.0|fastingBloodSugar_true|Left ventricular hypertrophy|159.0|No Angina|0.0|upsloping|1.0|normal|0
-35.0|Male|typical angina|126.0|282.0|fastingBloodSugar_false|Left ventricular hypertrophy|156.0|No Angina|0.0|upsloping|0.0|reversable defect|1
-45.0|Female|non-anginal pain|112.0|160.0|fastingBloodSugar_false|Normal|138.0|Yes Angina|0.0|flat|0.0|normal|0
-70.0|Male|asymptomatic|160.0|269.0|fastingBloodSugar_false|Normal|112.0|No Angina|2.9|flat|1.0|reversable defect|1
-53.0|Male|typical angina|142.0|226.0|fastingBloodSugar_false|Left ventricular hypertrophy|111.0|No Angina|0.0|upsloping|0.0|reversable defect|0
-59.0|Female|typical angina|174.0|249.0|fastingBloodSugar_false|Normal|143.0|No Angina|0.0|flat|0.0|normal|1
-62.0|Female|typical angina|140.0|394.0|fastingBloodSugar_false|Left ventricular hypertrophy|157.0|Yes Angina|1.2|flat|0.0|normal|0
-64.0|Male|typical angina|145.0|212.0|fastingBloodSugar_false|Left ventricular hypertrophy|132.0|Yes Angina|2.0|flat|2.0|fixed defect|1
-57.0|Male|typical angina|152.0|274.0|fastingBloodSugar_false|Normal|88.0|No Angina|1.2|flat|1.0|reversable defect|1
-52.0|Male|typical angina|108.0|233.0|fastingBloodSugar_true|Normal|147.0|Yes Angina|0.1|upsloping|3.0|reversable defect|0
-56.0|Male|typical angina|132.0|184.0|fastingBloodSugar_false|Left ventricular hypertrophy|105.0|No Angina|2.1|flat|1.0|fixed defect|1
-43.0|Male|asymptomatic|130.0|315.0|fastingBloodSugar_false|Normal|162.0|Yes Angina|1.9|upsloping|1.0|normal|0
-53.0|Male|asymptomatic|130.0|246.0|fastingBloodSugar_true|Left ventricular hypertrophy|173.0|Yes Angina|0.0|upsloping|3.0|normal|0
-48.0|Male|typical angina|124.0|274.0|fastingBloodSugar_false|Left ventricular hypertrophy|166.0|Yes Angina|0.5|flat|0.0|reversable defect|1
-56.0|Female|typical angina|134.0|409.0|fastingBloodSugar_false|Left ventricular hypertrophy|150.0|No Angina|1.9|flat|2.0|reversable defect|1
-42.0|Male|atypical angina|148.0|244.0|fastingBloodSugar_false|Left ventricular hypertrophy|178.0|Yes Angina|0.8|upsloping|2.0|normal|0
-59.0|Male|atypical angina|178.0|270.0|fastingBloodSugar_false|Left ventricular hypertrophy|145.0|Yes Angina|4.2|downsloping|0.0|reversable defect|0
-60.0|Female|typical angina|158.0|305.0|fastingBloodSugar_false|Left ventricular hypertrophy|161.0|Yes Angina|0.0|upsloping|0.0|normal|1
-63.0|Female|non-anginal pain|140.0|195.0|fastingBloodSugar_false|Normal|179.0|Yes Angina|0.0|upsloping|2.0|normal|0
-42.0|Male|asymptomatic|120.0|240.0|fastingBloodSugar_true|Normal|194.0|Yes Angina|0.8|downsloping|0.0|reversable defect|0
-66.0|Male|non-anginal pain|160.0|246.0|fastingBloodSugar_false|Normal|120.0|No Angina|0.0|flat|3.0|fixed defect|1
-54.0|Male|non-anginal pain|192.0|283.0|fastingBloodSugar_false|Left ventricular hypertrophy|195.0|Yes Angina|0.0|upsloping|1.0|reversable defect|1
-69.0|Male|asymptomatic|140.0|254.0|fastingBloodSugar_false|Left ventricular hypertrophy|146.0|Yes Angina|2.0|flat|3.0|reversable defect|1
-50.0|Male|asymptomatic|129.0|196.0|fastingBloodSugar_false|Normal|163.0|Yes Angina|0.0|upsloping|0.0|normal|0
-51.0|Male|typical angina|140.0|298.0|fastingBloodSugar_false|Normal|122.0|No Angina|4.2|flat|3.0|reversable defect|1
-43.0|Male|typical angina|132.0|247.0|fastingBloodSugar_true|Left ventricular hypertrophy|143.0|No Angina|0.1|flat||reversable defect|1
-62.0|Female|typical angina|138.0|294.0|fastingBloodSugar_true|Normal|106.0|Yes Angina|1.9|flat|3.0|normal|1
-68.0|Female|asymptomatic|120.0|211.0|fastingBloodSugar_false|Left ventricular hypertrophy|115.0|Yes Angina|1.5|flat|0.0|normal|0
-67.0|Male|typical angina|100.0|299.0|fastingBloodSugar_false|Left ventricular hypertrophy|125.0|No Angina|0.9|flat|2.0|normal|1
-69.0|Male|atypical angina|160.0|234.0|fastingBloodSugar_true|Left ventricular hypertrophy|131.0|Yes Angina|0.1|flat|1.0|normal|0
-45.0|Female|typical angina|138.0|236.0|fastingBloodSugar_false|Left ventricular hypertrophy|152.0|No Angina|0.2|flat|0.0|normal|0
-50.0|Female|non-anginal pain|120.0|244.0|fastingBloodSugar_false|Normal|162.0|Yes Angina|1.1|upsloping|0.0|normal|0
-59.0|Male|atypical angina|160.0|273.0|fastingBloodSugar_false|Left ventricular hypertrophy|125.0|Yes Angina|0.0|upsloping|0.0|normal|1
-50.0|Female|typical angina|110.0|254.0|fastingBloodSugar_false|Left ventricular hypertrophy|159.0|Yes Angina|0.0|upsloping|0.0|normal|0
-64.0|Female|typical angina|180.0|325.0|fastingBloodSugar_false|Normal|154.0|No Angina|0.0|upsloping|0.0|normal|0
-57.0|Male|asymptomatic|150.0|126.0|fastingBloodSugar_true|Normal|173.0|Yes Angina|0.2|upsloping|1.0|reversable defect|0
-64.0|Female|asymptomatic|140.0|313.0|fastingBloodSugar_false|Normal|133.0|Yes Angina|0.2|upsloping|0.0|reversable defect|0
-43.0|Male|typical angina|110.0|211.0|fastingBloodSugar_false|Normal|161.0|Yes Angina|0.0|upsloping|0.0|reversable defect|0
-45.0|Male|typical angina|142.0|309.0|fastingBloodSugar_false|Left ventricular hypertrophy|147.0|No Angina|0.0|flat|3.0|reversable defect|1
-58.0|Male|typical angina|128.0|259.0|fastingBloodSugar_false|Left ventricular hypertrophy|130.0|No Angina|3.0|flat|2.0|reversable defect|1
-50.0|Male|typical angina|144.0|200.0|fastingBloodSugar_false|Left ventricular hypertrophy|126.0|No Angina|0.9|flat|0.0|reversable defect|1
-55.0|Male|non-anginal pain|130.0|262.0|fastingBloodSugar_false|Normal|155.0|Yes Angina|0.0|upsloping|0.0|normal|0
-62.0|Female|typical angina|150.0|244.0|fastingBloodSugar_false|Normal|154.0|No Angina|1.4|flat|0.0|normal|1
-37.0|Female|asymptomatic|120.0|215.0|fastingBloodSugar_false|Normal|170.0|Yes Angina|0.0|upsloping|0.0|normal|0
-38.0|Male|atypical angina|120.0|231.0|fastingBloodSugar_false|Normal|182.0|No Angina|3.8|flat|0.0|reversable defect|1
-41.0|Male|asymptomatic|130.0|214.0|fastingBloodSugar_false|Left ventricular hypertrophy|168.0|Yes Angina|2.0|flat|0.0|normal|0
-66.0|Female|typical angina|178.0|228.0|fastingBloodSugar_true|Normal|165.0|No Angina|1.0|flat|2.0|reversable defect|1
-52.0|Male|typical angina|112.0|230.0|fastingBloodSugar_false|Normal|160.0|Yes Angina|0.0|upsloping|1.0|normal|1
-56.0|Male|atypical angina|120.0|193.0|fastingBloodSugar_false|Left ventricular hypertrophy|162.0|Yes Angina|1.9|flat|0.0|reversable defect|0
-46.0|Female|non-anginal pain|105.0|204.0|fastingBloodSugar_false|Normal|172.0|Yes Angina|0.0|upsloping|0.0|normal|0
-46.0|Female|typical angina|138.0|243.0|fastingBloodSugar_false|Left ventricular hypertrophy|152.0|No Angina|0.0|flat|0.0|normal|0
-64.0|Female|typical angina|130.0|303.0|fastingBloodSugar_false|Normal|122.0|Yes Angina|2.0|flat|2.0|normal|0
-59.0|Male|typical angina|138.0|271.0|fastingBloodSugar_false|Left ventricular hypertrophy|182.0|Yes Angina|0.0|upsloping|0.0|normal|0
-41.0|Female|asymptomatic|112.0|268.0|fastingBloodSugar_false|Left ventricular hypertrophy|172.0|No Angina|0.0|upsloping|0.0|normal|0
-54.0|Female|asymptomatic|108.0|267.0|fastingBloodSugar_false|Left ventricular hypertrophy|167.0|Yes Angina|0.0|upsloping|0.0|normal|0
-39.0|Female|asymptomatic|94.0|199.0|fastingBloodSugar_false|Normal|179.0|Yes Angina|0.0|upsloping|0.0|normal|0
-53.0|Male|typical angina|123.0|282.0|fastingBloodSugar_false|Normal|95.0|No Angina|2.0|flat|2.0|reversable defect|1
-63.0|Female|typical angina|108.0|269.0|fastingBloodSugar_false|Normal|169.0|No Angina|1.8|flat|2.0|normal|1
-34.0|Female|non-anginal pain|118.0|210.0|fastingBloodSugar_false|Normal|192.0|Yes Angina|0.7|upsloping|0.0|normal|0
-47.0|Male|typical angina|112.0|204.0|fastingBloodSugar_false|Normal|143.0|Yes Angina|0.1|upsloping|0.0|normal|0
-67.0|Female|asymptomatic|152.0|277.0|fastingBloodSugar_false|Normal|172.0|Yes Angina|0.0|upsloping|1.0|normal|0
-54.0|Male|typical angina|110.0|206.0|fastingBloodSugar_false|Left ventricular hypertrophy|108.0|No Angina|0.0|flat|1.0|normal|1
-66.0|Male|typical angina|112.0|212.0|fastingBloodSugar_false|Left ventricular hypertrophy|132.0|No Angina|0.1|upsloping|1.0|normal|1
-52.0|Female|asymptomatic|136.0|196.0|fastingBloodSugar_false|Left ventricular hypertrophy|169.0|Yes Angina|0.1|flat|0.0|normal|0
-55.0|Female|typical angina|180.0|327.0|fastingBloodSugar_false|ST-T wave abnormality|117.0|No Angina|3.4|flat|0.0|normal|1
-49.0|Male|asymptomatic|118.0|149.0|fastingBloodSugar_false|Left ventricular hypertrophy|126.0|Yes Angina|0.8|upsloping|3.0|normal|1
-74.0|Female|non-anginal pain|120.0|269.0|fastingBloodSugar_false|Left ventricular hypertrophy|121.0|No Angina|0.2|upsloping|1.0|normal|0
-54.0|Female|asymptomatic|160.0|201.0|fastingBloodSugar_false|Normal|163.0|Yes Angina|0.0|upsloping|1.0|normal|0
-54.0|Male|typical angina|122.0|286.0|fastingBloodSugar_false|Left ventricular hypertrophy|116.0|No Angina|3.2|flat|2.0|normal|1
-56.0|Male|typical angina|130.0|283.0|fastingBloodSugar_true|Left ventricular hypertrophy|103.0|No Angina|1.6|downsloping|0.0|reversable defect|1
-46.0|Male|typical angina|120.0|249.0|fastingBloodSugar_false|Left ventricular hypertrophy|144.0|Yes Angina|0.8|upsloping|0.0|reversable defect|1
-49.0|Female|non-anginal pain|134.0|271.0|fastingBloodSugar_false|Normal|162.0|Yes Angina|0.0|flat|0.0|normal|0
-42.0|Male|non-anginal pain|120.0|295.0|fastingBloodSugar_false|Normal|162.0|Yes Angina|0.0|upsloping|0.0|normal|0
-41.0|Male|non-anginal pain|110.0|235.0|fastingBloodSugar_false|Normal|153.0|Yes Angina|0.0|upsloping|0.0|normal|0
-41.0|Female|non-anginal pain|126.0|306.0|fastingBloodSugar_false|Normal|163.0|Yes Angina|0.0|upsloping|0.0|normal|0
-49.0|Female|typical angina|130.0|269.0|fastingBloodSugar_false|Normal|163.0|Yes Angina|0.0|upsloping|0.0|normal|0
-61.0|Male|atypical angina|134.0|234.0|fastingBloodSugar_false|Normal|145.0|Yes Angina|2.6|flat|2.0|normal|1
-60.0|Female|asymptomatic|120.0|178.0|fastingBloodSugar_true|Normal|96.0|Yes Angina|0.0|upsloping|0.0|normal|0
-67.0|Male|typical angina|120.0|237.0|fastingBloodSugar_false|Normal|71.0|Yes Angina|1.0|flat|0.0|normal|1
-58.0|Male|typical angina|100.0|234.0|fastingBloodSugar_false|Normal|156.0|Yes Angina|0.1|upsloping|1.0|reversable defect|1
-47.0|Male|typical angina|110.0|275.0|fastingBloodSugar_false|Left ventricular hypertrophy|118.0|No Angina|1.0|flat|1.0|normal|1
-52.0|Male|typical angina|125.0|212.0|fastingBloodSugar_false|Normal|168.0|Yes Angina|1.0|upsloping|2.0|reversable defect|1
-62.0|Male|non-anginal pain|128.0|208.0|fastingBloodSugar_true|Left ventricular hypertrophy|140.0|Yes Angina|0.0|upsloping|0.0|normal|0
-57.0|Male|typical angina|110.0|201.0|fastingBloodSugar_false|Normal|126.0|No Angina|1.5|flat|0.0|fixed defect|0
-58.0|Male|typical angina|146.0|218.0|fastingBloodSugar_false|Normal|105.0|Yes Angina|2.0|flat|1.0|reversable defect|1
-64.0|Male|typical angina|128.0|263.0|fastingBloodSugar_false|Normal|105.0|No Angina|0.2|flat|1.0|reversable defect|0
-51.0|Female|asymptomatic|120.0|295.0|fastingBloodSugar_false|Left ventricular hypertrophy|157.0|Yes Angina|0.6|upsloping|0.0|normal|0
-43.0|Male|typical angina|115.0|303.0|fastingBloodSugar_false|Normal|181.0|Yes Angina|1.2|flat|0.0|normal|0
-42.0|Female|asymptomatic|120.0|209.0|fastingBloodSugar_false|Normal|173.0|Yes Angina|0.0|flat|0.0|normal|0
-67.0|Female|typical angina|106.0|223.0|fastingBloodSugar_false|Normal|142.0|Yes Angina|0.3|upsloping|2.0|normal|0
-76.0|Female|asymptomatic|140.0|197.0|fastingBloodSugar_false|ST-T wave abnormality|116.0|Yes Angina|1.1|flat|0.0|normal|0
-70.0|Male|non-anginal pain|156.0|245.0|fastingBloodSugar_false|Left ventricular hypertrophy|143.0|Yes Angina|0.0|upsloping|0.0|normal|0
-57.0|Male|non-anginal pain|124.0|261.0|fastingBloodSugar_false|Normal|141.0|Yes Angina|0.3|upsloping|0.0|reversable defect|1
-44.0|Female|asymptomatic|118.0|242.0|fastingBloodSugar_false|Normal|149.0|Yes Angina|0.3|flat|1.0|normal|0
-58.0|Female|non-anginal pain|136.0|319.0|fastingBloodSugar_true|Left ventricular hypertrophy|152.0|Yes Angina|0.0|upsloping|2.0|normal|1
-60.0|Female|atypical angina|150.0|240.0|fastingBloodSugar_false|Normal|171.0|Yes Angina|0.9|upsloping|0.0|normal|0
-44.0|Male|asymptomatic|120.0|226.0|fastingBloodSugar_false|Normal|169.0|Yes Angina|0.0|upsloping|0.0|normal|0
-61.0|Male|typical angina|138.0|166.0|fastingBloodSugar_false|Left ventricular hypertrophy|125.0|No Angina|3.6|flat|1.0|normal|1
-42.0|Male|typical angina|136.0|315.0|fastingBloodSugar_false|Normal|125.0|No Angina|1.8|flat|0.0|fixed defect|1
-52.0|Male|typical angina|128.0|204.0|fastingBloodSugar_true|Normal|156.0|No Angina|1.0|flat|0.0||1
-59.0|Male|asymptomatic|126.0|218.0|fastingBloodSugar_true|Normal|134.0|Yes Angina|2.2|flat|1.0|fixed defect|1
-40.0|Male|typical angina|152.0|223.0|fastingBloodSugar_false|Normal|181.0|Yes Angina|0.0|upsloping|0.0|reversable defect|1
-42.0|Male|asymptomatic|130.0|180.0|fastingBloodSugar_false|Normal|150.0|Yes Angina|0.0|upsloping|0.0|normal|0
-61.0|Male|typical angina|140.0|207.0|fastingBloodSugar_false|Left ventricular hypertrophy|138.0|No Angina|1.9|upsloping|1.0|reversable defect|1
-66.0|Male|typical angina|160.0|228.0|fastingBloodSugar_false|Left ventricular hypertrophy|138.0|Yes Angina|2.3|upsloping|0.0|fixed defect|0
-46.0|Male|typical angina|140.0|311.0|fastingBloodSugar_false|Normal|120.0|No Angina|1.8|flat|2.0|reversable defect|1
-71.0|Female|typical angina|112.0|149.0|fastingBloodSugar_false|Normal|125.0|Yes Angina|1.6|flat|0.0|normal|0
-59.0|Male|atypical angina|134.0|204.0|fastingBloodSugar_false|Normal|162.0|Yes Angina|0.8|upsloping|2.0|normal|1
-64.0|Male|atypical angina|170.0|227.0|fastingBloodSugar_false|Left ventricular hypertrophy|155.0|Yes Angina|0.6|flat|0.0|reversable defect|0
-66.0|Female|asymptomatic|146.0|278.0|fastingBloodSugar_false|Left ventricular hypertrophy|152.0|Yes Angina|0.0|flat|1.0|normal|0
-39.0|Female|asymptomatic|138.0|220.0|fastingBloodSugar_false|Normal|152.0|Yes Angina|0.0|flat|0.0|normal|0
-57.0|Male|non-anginal pain|154.0|232.0|fastingBloodSugar_false|Left ventricular hypertrophy|164.0|Yes Angina|0.0|upsloping|1.0|normal|1
-58.0|Female|typical angina|130.0|197.0|fastingBloodSugar_false|Normal|131.0|Yes Angina|0.6|flat|0.0|normal|0
-57.0|Male|typical angina|110.0|335.0|fastingBloodSugar_false|Normal|143.0|No Angina|3.0|flat|1.0|reversable defect|1
-47.0|Male|asymptomatic|130.0|253.0|fastingBloodSugar_false|Normal|179.0|Yes Angina|0.0|upsloping|0.0|normal|0
-55.0|Female|typical angina|128.0|205.0|fastingBloodSugar_false|ST-T wave abnormality|130.0|No Angina|2.0|flat|1.0|reversable defect|1
-35.0|Male|non-anginal pain|122.0|192.0|fastingBloodSugar_false|Normal|174.0|Yes Angina|0.0|upsloping|0.0|normal|0
-61.0|Male|typical angina|148.0|203.0|fastingBloodSugar_false|Normal|161.0|Yes Angina|0.0|upsloping|1.0|reversable defect|1
-58.0|Male|typical angina|114.0|318.0|fastingBloodSugar_false|ST-T wave abnormality|140.0|Yes Angina|4.4|downsloping|3.0|fixed defect|1
-58.0|Female|typical angina|170.0|225.0|fastingBloodSugar_true|Left ventricular hypertrophy|146.0|No Angina|2.8|flat|2.0|fixed defect|1
-58.0|Male|non-anginal pain|125.0|220.0|fastingBloodSugar_false|Normal|144.0|Yes Angina|0.4|flat||reversable defect|0
-56.0|Male|non-anginal pain|130.0|221.0|fastingBloodSugar_false|Left ventricular hypertrophy|163.0|Yes Angina|0.0|upsloping|0.0|reversable defect|0
-56.0|Male|non-anginal pain|120.0|240.0|fastingBloodSugar_false|Normal|169.0|Yes Angina|0.0|downsloping|0.0|normal|0
-67.0|Male|asymptomatic|152.0|212.0|fastingBloodSugar_false|Left ventricular hypertrophy|150.0|Yes Angina|0.8|flat|0.0|reversable defect|1
-55.0|Female|non-anginal pain|132.0|342.0|fastingBloodSugar_false|Normal|166.0|Yes Angina|1.2|upsloping|0.0|normal|0
-44.0|Male|typical angina|120.0|169.0|fastingBloodSugar_false|Normal|144.0|No Angina|2.8|downsloping|0.0|fixed defect|1
-63.0|Male|typical angina|140.0|187.0|fastingBloodSugar_false|Left ventricular hypertrophy|144.0|No Angina|4.0|upsloping|2.0|reversable defect|1
-63.0|Female|typical angina|124.0|197.0|fastingBloodSugar_false|Normal|136.0|No Angina|0.0|flat|0.0|normal|1
-41.0|Male|non-anginal pain|120.0|157.0|fastingBloodSugar_false|Normal|182.0|Yes Angina|0.0|upsloping|0.0|normal|0
-59.0|Male|typical angina|164.0|176.0|fastingBloodSugar_true|Left ventricular hypertrophy|90.0|Yes Angina|1.0|flat|2.0|fixed defect|1
-57.0|Female|typical angina|140.0|241.0|fastingBloodSugar_false|Normal|123.0|No Angina|0.2|flat|0.0|reversable defect|1
-45.0|Male|atypical angina|110.0|264.0|fastingBloodSugar_false|Normal|132.0|Yes Angina|1.2|flat|0.0|reversable defect|1
-68.0|Male|typical angina|144.0|193.0|fastingBloodSugar_true|Normal|141.0|Yes Angina|3.4|flat|2.0|reversable defect|1
-57.0|Male|typical angina|130.0|131.0|fastingBloodSugar_false|Normal|115.0|No Angina|1.2|flat|1.0|reversable defect|1
-57.0|Female|non-anginal pain|130.0|236.0|fastingBloodSugar_false|Left ventricular hypertrophy|174.0|Yes Angina|0.0|flat|1.0|normal|1
-38.0|Male|asymptomatic|138.0|175.0|fastingBloodSugar_false|Normal|173.0|Yes Angina|0.0|upsloping||normal|0
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,num
+63.0,Male,typical angina,145.0,233.0,fastingBloodSugar_true,Left ventricular hypertrophy,150.0,No Angina,2.3,downsloping,0.0,fixed defect,0
+67.0,Male,asymptomatic,160.0,286.0,fastingBloodSugar_false,Left ventricular hypertrophy,108.0,Yes Angina,1.5,flat,3.0,normal,1
+67.0,Male,asymptomatic,120.0,229.0,fastingBloodSugar_false,Left ventricular hypertrophy,129.0,Yes Angina,2.6,flat,2.0,reversable defect,1
+37.0,Male,non-anginal pain,130.0,250.0,fastingBloodSugar_false,Normal,187.0,No Angina,3.5,downsloping,0.0,normal,0
+41.0,Female,atypical angina,130.0,204.0,fastingBloodSugar_false,Left ventricular hypertrophy,172.0,No Angina,1.4,upsloping,0.0,normal,0
+56.0,Male,atypical angina,120.0,236.0,fastingBloodSugar_false,Normal,178.0,No Angina,0.8,upsloping,0.0,normal,0
+62.0,Female,asymptomatic,140.0,268.0,fastingBloodSugar_false,Left ventricular hypertrophy,160.0,No Angina,3.6,downsloping,2.0,normal,1
+57.0,Female,asymptomatic,120.0,354.0,fastingBloodSugar_false,Normal,163.0,Yes Angina,0.6,upsloping,0.0,normal,0
+63.0,Male,asymptomatic,130.0,254.0,fastingBloodSugar_false,Left ventricular hypertrophy,147.0,No Angina,1.4,flat,1.0,reversable defect,1
+53.0,Male,asymptomatic,140.0,203.0,fastingBloodSugar_true,Left ventricular hypertrophy,155.0,Yes Angina,3.1,downsloping,0.0,reversable defect,1
+57.0,Male,asymptomatic,140.0,192.0,fastingBloodSugar_false,Normal,148.0,No Angina,0.4,flat,0.0,fixed defect,0
+56.0,Female,atypical angina,140.0,294.0,fastingBloodSugar_false,Left ventricular hypertrophy,153.0,No Angina,1.3,flat,0.0,normal,0
+56.0,Male,non-anginal pain,130.0,256.0,fastingBloodSugar_true,Left ventricular hypertrophy,142.0,Yes Angina,0.6,flat,1.0,fixed defect,1
+44.0,Male,atypical angina,120.0,263.0,fastingBloodSugar_false,Normal,173.0,No Angina,0.0,upsloping,0.0,reversable defect,0
+52.0,Male,non-anginal pain,172.0,199.0,fastingBloodSugar_true,Normal,162.0,No Angina,0.5,upsloping,0.0,reversable defect,0
+57.0,Male,non-anginal pain,150.0,168.0,fastingBloodSugar_false,Normal,174.0,No Angina,1.6,upsloping,0.0,normal,0
+48.0,Male,atypical angina,110.0,229.0,fastingBloodSugar_false,Normal,168.0,No Angina,1.0,downsloping,0.0,reversable defect,1
+54.0,Male,asymptomatic,140.0,239.0,fastingBloodSugar_false,Normal,160.0,No Angina,1.2,upsloping,0.0,normal,0
+48.0,Female,non-anginal pain,130.0,275.0,fastingBloodSugar_false,Normal,139.0,No Angina,0.2,upsloping,0.0,normal,0
+49.0,Male,atypical angina,130.0,266.0,fastingBloodSugar_false,Normal,171.0,No Angina,0.6,upsloping,0.0,normal,0
+64.0,Male,typical angina,110.0,211.0,fastingBloodSugar_false,Left ventricular hypertrophy,144.0,Yes Angina,1.8,flat,0.0,normal,0
+58.0,Female,typical angina,150.0,283.0,fastingBloodSugar_true,Left ventricular hypertrophy,162.0,No Angina,1.0,upsloping,0.0,normal,0
+58.0,Male,atypical angina,120.0,284.0,fastingBloodSugar_false,Left ventricular hypertrophy,160.0,No Angina,1.8,flat,0.0,normal,1
+58.0,Male,non-anginal pain,132.0,224.0,fastingBloodSugar_false,Left ventricular hypertrophy,173.0,No Angina,3.2,upsloping,2.0,reversable defect,1
+60.0,Male,asymptomatic,130.0,206.0,fastingBloodSugar_false,Left ventricular hypertrophy,132.0,Yes Angina,2.4,flat,2.0,reversable defect,1
+50.0,Female,non-anginal pain,120.0,219.0,fastingBloodSugar_false,Normal,158.0,No Angina,1.6,flat,0.0,normal,0
+58.0,Female,non-anginal pain,120.0,340.0,fastingBloodSugar_false,Normal,172.0,No Angina,0.0,upsloping,0.0,normal,0
+66.0,Female,typical angina,150.0,226.0,fastingBloodSugar_false,Normal,114.0,No Angina,2.6,downsloping,0.0,normal,0
+43.0,Male,asymptomatic,150.0,247.0,fastingBloodSugar_false,Normal,171.0,No Angina,1.5,upsloping,0.0,normal,0
+40.0,Male,asymptomatic,110.0,167.0,fastingBloodSugar_false,Left ventricular hypertrophy,114.0,Yes Angina,2.0,flat,0.0,reversable defect,1
+69.0,Female,typical angina,140.0,239.0,fastingBloodSugar_false,Normal,151.0,No Angina,1.8,upsloping,2.0,normal,0
+60.0,Male,asymptomatic,117.0,230.0,fastingBloodSugar_true,Normal,160.0,Yes Angina,1.4,upsloping,2.0,reversable defect,1
+64.0,Male,non-anginal pain,140.0,335.0,fastingBloodSugar_false,Normal,158.0,No Angina,0.0,upsloping,0.0,normal,1
+59.0,Male,asymptomatic,135.0,234.0,fastingBloodSugar_false,Normal,161.0,No Angina,0.5,flat,0.0,reversable defect,0
+44.0,Male,non-anginal pain,130.0,233.0,fastingBloodSugar_false,Normal,179.0,Yes Angina,0.4,upsloping,0.0,normal,0
+42.0,Male,asymptomatic,140.0,226.0,fastingBloodSugar_false,Normal,178.0,No Angina,0.0,upsloping,0.0,normal,0
+43.0,Male,asymptomatic,120.0,177.0,fastingBloodSugar_false,Left ventricular hypertrophy,120.0,Yes Angina,2.5,flat,0.0,reversable defect,1
+57.0,Male,asymptomatic,150.0,276.0,fastingBloodSugar_false,Left ventricular hypertrophy,112.0,Yes Angina,0.6,flat,1.0,fixed defect,1
+55.0,Male,asymptomatic,132.0,353.0,fastingBloodSugar_false,Normal,132.0,Yes Angina,1.2,flat,1.0,reversable defect,1
+61.0,Male,non-anginal pain,150.0,243.0,fastingBloodSugar_true,Normal,137.0,Yes Angina,1.0,flat,0.0,normal,0
+65.0,Female,asymptomatic,150.0,225.0,fastingBloodSugar_false,Left ventricular hypertrophy,114.0,No Angina,1.0,flat,3.0,reversable defect,1
+40.0,Male,typical angina,140.0,199.0,fastingBloodSugar_false,Normal,178.0,Yes Angina,1.4,upsloping,0.0,reversable defect,0
+71.0,Female,atypical angina,160.0,302.0,fastingBloodSugar_false,Normal,162.0,No Angina,0.4,upsloping,2.0,normal,0
+59.0,Male,non-anginal pain,150.0,212.0,fastingBloodSugar_true,Normal,157.0,No Angina,1.6,upsloping,0.0,normal,0
+61.0,Female,asymptomatic,130.0,330.0,fastingBloodSugar_false,Left ventricular hypertrophy,169.0,No Angina,0.0,upsloping,0.0,normal,1
+58.0,Male,non-anginal pain,112.0,230.0,fastingBloodSugar_false,Left ventricular hypertrophy,165.0,No Angina,2.5,flat,1.0,reversable defect,1
+51.0,Male,non-anginal pain,110.0,175.0,fastingBloodSugar_false,Normal,123.0,No Angina,0.6,upsloping,0.0,normal,0
+50.0,Male,asymptomatic,150.0,243.0,fastingBloodSugar_false,Left ventricular hypertrophy,128.0,No Angina,2.6,flat,0.0,reversable defect,1
+65.0,Female,non-anginal pain,140.0,417.0,fastingBloodSugar_true,Left ventricular hypertrophy,157.0,No Angina,0.8,upsloping,1.0,normal,0
+53.0,Male,non-anginal pain,130.0,197.0,fastingBloodSugar_true,Left ventricular hypertrophy,152.0,No Angina,1.2,downsloping,0.0,normal,0
+41.0,Female,atypical angina,105.0,198.0,fastingBloodSugar_false,Normal,168.0,No Angina,0.0,upsloping,1.0,normal,0
+65.0,Male,asymptomatic,120.0,177.0,fastingBloodSugar_false,Normal,140.0,No Angina,0.4,upsloping,0.0,reversable defect,0
+44.0,Male,asymptomatic,112.0,290.0,fastingBloodSugar_false,Left ventricular hypertrophy,153.0,No Angina,0.0,upsloping,1.0,normal,1
+44.0,Male,atypical angina,130.0,219.0,fastingBloodSugar_false,Left ventricular hypertrophy,188.0,No Angina,0.0,upsloping,0.0,normal,0
+60.0,Male,asymptomatic,130.0,253.0,fastingBloodSugar_false,Normal,144.0,Yes Angina,1.4,upsloping,1.0,reversable defect,1
+54.0,Male,asymptomatic,124.0,266.0,fastingBloodSugar_false,Left ventricular hypertrophy,109.0,Yes Angina,2.2,flat,1.0,reversable defect,1
+50.0,Male,non-anginal pain,140.0,233.0,fastingBloodSugar_false,Normal,163.0,No Angina,0.6,flat,1.0,reversable defect,1
+41.0,Male,asymptomatic,110.0,172.0,fastingBloodSugar_false,Left ventricular hypertrophy,158.0,No Angina,0.0,upsloping,0.0,reversable defect,1
+54.0,Male,non-anginal pain,125.0,273.0,fastingBloodSugar_false,Left ventricular hypertrophy,152.0,No Angina,0.5,downsloping,1.0,normal,0
+51.0,Male,typical angina,125.0,213.0,fastingBloodSugar_false,Left ventricular hypertrophy,125.0,Yes Angina,1.4,upsloping,1.0,normal,0
+51.0,Female,asymptomatic,130.0,305.0,fastingBloodSugar_false,Normal,142.0,Yes Angina,1.2,flat,0.0,reversable defect,1
+46.0,Female,non-anginal pain,142.0,177.0,fastingBloodSugar_false,Left ventricular hypertrophy,160.0,Yes Angina,1.4,downsloping,0.0,normal,0
+58.0,Male,asymptomatic,128.0,216.0,fastingBloodSugar_false,Left ventricular hypertrophy,131.0,Yes Angina,2.2,flat,3.0,reversable defect,1
+54.0,Female,non-anginal pain,135.0,304.0,fastingBloodSugar_true,Normal,170.0,No Angina,0.0,upsloping,0.0,normal,0
+54.0,Male,asymptomatic,120.0,188.0,fastingBloodSugar_false,Normal,113.0,No Angina,1.4,flat,1.0,reversable defect,1
+60.0,Male,asymptomatic,145.0,282.0,fastingBloodSugar_false,Left ventricular hypertrophy,142.0,Yes Angina,2.8,flat,2.0,reversable defect,1
+60.0,Male,non-anginal pain,140.0,185.0,fastingBloodSugar_false,Left ventricular hypertrophy,155.0,No Angina,3.0,flat,0.0,normal,1
+54.0,Male,non-anginal pain,150.0,232.0,fastingBloodSugar_false,Left ventricular hypertrophy,165.0,No Angina,1.6,upsloping,0.0,reversable defect,0
+59.0,Male,asymptomatic,170.0,326.0,fastingBloodSugar_false,Left ventricular hypertrophy,140.0,Yes Angina,3.4,downsloping,0.0,reversable defect,1
+46.0,Male,non-anginal pain,150.0,231.0,fastingBloodSugar_false,Normal,147.0,No Angina,3.6,flat,0.0,normal,1
+65.0,Female,non-anginal pain,155.0,269.0,fastingBloodSugar_false,Normal,148.0,No Angina,0.8,upsloping,0.0,normal,0
+67.0,Male,asymptomatic,125.0,254.0,fastingBloodSugar_true,Normal,163.0,No Angina,0.2,flat,2.0,reversable defect,1
+62.0,Male,asymptomatic,120.0,267.0,fastingBloodSugar_false,Normal,99.0,Yes Angina,1.8,flat,2.0,reversable defect,1
+65.0,Male,asymptomatic,110.0,248.0,fastingBloodSugar_false,Left ventricular hypertrophy,158.0,No Angina,0.6,upsloping,2.0,fixed defect,1
+44.0,Male,asymptomatic,110.0,197.0,fastingBloodSugar_false,Left ventricular hypertrophy,177.0,No Angina,0.0,upsloping,1.0,normal,1
+65.0,Female,non-anginal pain,160.0,360.0,fastingBloodSugar_false,Left ventricular hypertrophy,151.0,No Angina,0.8,upsloping,0.0,normal,0
+60.0,Male,asymptomatic,125.0,258.0,fastingBloodSugar_false,Left ventricular hypertrophy,141.0,Yes Angina,2.8,flat,1.0,reversable defect,1
+51.0,Female,non-anginal pain,140.0,308.0,fastingBloodSugar_false,Left ventricular hypertrophy,142.0,No Angina,1.5,upsloping,1.0,normal,0
+48.0,Male,atypical angina,130.0,245.0,fastingBloodSugar_false,Left ventricular hypertrophy,180.0,No Angina,0.2,flat,0.0,normal,0
+58.0,Male,asymptomatic,150.0,270.0,fastingBloodSugar_false,Left ventricular hypertrophy,111.0,Yes Angina,0.8,upsloping,0.0,reversable defect,1
+45.0,Male,asymptomatic,104.0,208.0,fastingBloodSugar_false,Left ventricular hypertrophy,148.0,Yes Angina,3.0,flat,0.0,normal,0
+53.0,Female,asymptomatic,130.0,264.0,fastingBloodSugar_false,Left ventricular hypertrophy,143.0,No Angina,0.4,flat,0.0,normal,0
+39.0,Male,non-anginal pain,140.0,321.0,fastingBloodSugar_false,Left ventricular hypertrophy,182.0,No Angina,0.0,upsloping,0.0,normal,0
+68.0,Male,non-anginal pain,180.0,274.0,fastingBloodSugar_true,Left ventricular hypertrophy,150.0,Yes Angina,1.6,flat,0.0,reversable defect,1
+52.0,Male,atypical angina,120.0,325.0,fastingBloodSugar_false,Normal,172.0,No Angina,0.2,upsloping,0.0,normal,0
+44.0,Male,non-anginal pain,140.0,235.0,fastingBloodSugar_false,Left ventricular hypertrophy,180.0,No Angina,0.0,upsloping,0.0,normal,0
+47.0,Male,non-anginal pain,138.0,257.0,fastingBloodSugar_false,Left ventricular hypertrophy,156.0,No Angina,0.0,upsloping,0.0,normal,0
+53.0,Female,asymptomatic,138.0,234.0,fastingBloodSugar_false,Left ventricular hypertrophy,160.0,No Angina,0.0,upsloping,0.0,normal,0
+51.0,Female,non-anginal pain,130.0,256.0,fastingBloodSugar_false,Left ventricular hypertrophy,149.0,No Angina,0.5,upsloping,0.0,normal,0
+66.0,Male,asymptomatic,120.0,302.0,fastingBloodSugar_false,Left ventricular hypertrophy,151.0,No Angina,0.4,flat,0.0,normal,0
+62.0,Female,asymptomatic,160.0,164.0,fastingBloodSugar_false,Left ventricular hypertrophy,145.0,No Angina,6.2,downsloping,3.0,reversable defect,1
+62.0,Male,non-anginal pain,130.0,231.0,fastingBloodSugar_false,Normal,146.0,No Angina,1.8,flat,3.0,reversable defect,0
+44.0,Female,non-anginal pain,108.0,141.0,fastingBloodSugar_false,Normal,175.0,No Angina,0.6,flat,0.0,normal,0
+63.0,Female,non-anginal pain,135.0,252.0,fastingBloodSugar_false,Left ventricular hypertrophy,172.0,No Angina,0.0,upsloping,0.0,normal,0
+52.0,Male,asymptomatic,128.0,255.0,fastingBloodSugar_false,Normal,161.0,Yes Angina,0.0,upsloping,1.0,reversable defect,1
+59.0,Male,asymptomatic,110.0,239.0,fastingBloodSugar_false,Left ventricular hypertrophy,142.0,Yes Angina,1.2,flat,1.0,reversable defect,1
+60.0,Female,asymptomatic,150.0,258.0,fastingBloodSugar_false,Left ventricular hypertrophy,157.0,No Angina,2.6,flat,2.0,reversable defect,1
+52.0,Male,atypical angina,134.0,201.0,fastingBloodSugar_false,Normal,158.0,No Angina,0.8,upsloping,1.0,normal,0
+48.0,Male,asymptomatic,122.0,222.0,fastingBloodSugar_false,Left ventricular hypertrophy,186.0,No Angina,0.0,upsloping,0.0,normal,0
+45.0,Male,asymptomatic,115.0,260.0,fastingBloodSugar_false,Left ventricular hypertrophy,185.0,No Angina,0.0,upsloping,0.0,normal,0
+34.0,Male,typical angina,118.0,182.0,fastingBloodSugar_false,Left ventricular hypertrophy,174.0,No Angina,0.0,upsloping,0.0,normal,0
+57.0,Female,asymptomatic,128.0,303.0,fastingBloodSugar_false,Left ventricular hypertrophy,159.0,No Angina,0.0,upsloping,1.0,normal,0
+71.0,Female,non-anginal pain,110.0,265.0,fastingBloodSugar_true,Left ventricular hypertrophy,130.0,No Angina,0.0,upsloping,1.0,normal,0
+49.0,Male,non-anginal pain,120.0,188.0,fastingBloodSugar_false,Normal,139.0,No Angina,2.0,flat,3.0,reversable defect,1
+54.0,Male,atypical angina,108.0,309.0,fastingBloodSugar_false,Normal,156.0,No Angina,0.0,upsloping,0.0,reversable defect,0
+59.0,Male,asymptomatic,140.0,177.0,fastingBloodSugar_false,Normal,162.0,Yes Angina,0.0,upsloping,1.0,reversable defect,1
+57.0,Male,non-anginal pain,128.0,229.0,fastingBloodSugar_false,Left ventricular hypertrophy,150.0,No Angina,0.4,flat,1.0,reversable defect,1
+61.0,Male,asymptomatic,120.0,260.0,fastingBloodSugar_false,Normal,140.0,Yes Angina,3.6,flat,1.0,reversable defect,1
+39.0,Male,asymptomatic,118.0,219.0,fastingBloodSugar_false,Normal,140.0,No Angina,1.2,flat,0.0,reversable defect,1
+61.0,Female,asymptomatic,145.0,307.0,fastingBloodSugar_false,Left ventricular hypertrophy,146.0,Yes Angina,1.0,flat,0.0,reversable defect,1
+56.0,Male,asymptomatic,125.0,249.0,fastingBloodSugar_true,Left ventricular hypertrophy,144.0,Yes Angina,1.2,flat,1.0,normal,1
+52.0,Male,typical angina,118.0,186.0,fastingBloodSugar_false,Left ventricular hypertrophy,190.0,No Angina,0.0,flat,0.0,fixed defect,0
+43.0,Female,asymptomatic,132.0,341.0,fastingBloodSugar_true,Left ventricular hypertrophy,136.0,Yes Angina,3.0,flat,0.0,reversable defect,1
+62.0,Female,non-anginal pain,130.0,263.0,fastingBloodSugar_false,Normal,97.0,No Angina,1.2,flat,1.0,reversable defect,1
+41.0,Male,atypical angina,135.0,203.0,fastingBloodSugar_false,Normal,132.0,No Angina,0.0,flat,0.0,fixed defect,0
+58.0,Male,non-anginal pain,140.0,211.0,fastingBloodSugar_true,Left ventricular hypertrophy,165.0,No Angina,0.0,upsloping,0.0,normal,0
+35.0,Female,asymptomatic,138.0,183.0,fastingBloodSugar_false,Normal,182.0,No Angina,1.4,upsloping,0.0,normal,0
+63.0,Male,asymptomatic,130.0,330.0,fastingBloodSugar_true,Left ventricular hypertrophy,132.0,Yes Angina,1.8,upsloping,3.0,reversable defect,1
+65.0,Male,asymptomatic,135.0,254.0,fastingBloodSugar_false,Left ventricular hypertrophy,127.0,No Angina,2.8,flat,1.0,reversable defect,1
+48.0,Male,asymptomatic,130.0,256.0,fastingBloodSugar_true,Left ventricular hypertrophy,150.0,Yes Angina,0.0,upsloping,2.0,reversable defect,1
+63.0,Female,asymptomatic,150.0,407.0,fastingBloodSugar_false,Left ventricular hypertrophy,154.0,No Angina,4.0,flat,3.0,reversable defect,1
+51.0,Male,non-anginal pain,100.0,222.0,fastingBloodSugar_false,Normal,143.0,Yes Angina,1.2,flat,0.0,normal,0
+55.0,Male,asymptomatic,140.0,217.0,fastingBloodSugar_false,Normal,111.0,Yes Angina,5.6,downsloping,0.0,reversable defect,1
+65.0,Male,typical angina,138.0,282.0,fastingBloodSugar_true,Left ventricular hypertrophy,174.0,No Angina,1.4,flat,1.0,normal,1
+45.0,Female,atypical angina,130.0,234.0,fastingBloodSugar_false,Left ventricular hypertrophy,175.0,No Angina,0.6,flat,0.0,normal,0
+56.0,Female,asymptomatic,200.0,288.0,fastingBloodSugar_true,Left ventricular hypertrophy,133.0,Yes Angina,4.0,downsloping,2.0,reversable defect,1
+54.0,Male,asymptomatic,110.0,239.0,fastingBloodSugar_false,Normal,126.0,Yes Angina,2.8,flat,1.0,reversable defect,1
+44.0,Male,atypical angina,120.0,220.0,fastingBloodSugar_false,Normal,170.0,No Angina,0.0,upsloping,0.0,normal,0
+62.0,Female,asymptomatic,124.0,209.0,fastingBloodSugar_false,Normal,163.0,No Angina,0.0,upsloping,0.0,normal,0
+54.0,Male,non-anginal pain,120.0,258.0,fastingBloodSugar_false,Left ventricular hypertrophy,147.0,No Angina,0.4,flat,0.0,reversable defect,0
+51.0,Male,non-anginal pain,94.0,227.0,fastingBloodSugar_false,Normal,154.0,Yes Angina,0.0,upsloping,1.0,reversable defect,0
+29.0,Male,atypical angina,130.0,204.0,fastingBloodSugar_false,Left ventricular hypertrophy,202.0,No Angina,0.0,upsloping,0.0,normal,0
+51.0,Male,asymptomatic,140.0,261.0,fastingBloodSugar_false,Left ventricular hypertrophy,186.0,Yes Angina,0.0,upsloping,0.0,normal,0
+43.0,Female,non-anginal pain,122.0,213.0,fastingBloodSugar_false,Normal,165.0,No Angina,0.2,flat,0.0,normal,0
+55.0,Female,atypical angina,135.0,250.0,fastingBloodSugar_false,Left ventricular hypertrophy,161.0,No Angina,1.4,flat,0.0,normal,0
+70.0,Male,asymptomatic,145.0,174.0,fastingBloodSugar_false,Normal,125.0,Yes Angina,2.6,downsloping,0.0,reversable defect,1
+62.0,Male,atypical angina,120.0,281.0,fastingBloodSugar_false,Left ventricular hypertrophy,103.0,No Angina,1.4,flat,1.0,reversable defect,1
+35.0,Male,asymptomatic,120.0,198.0,fastingBloodSugar_false,Normal,130.0,Yes Angina,1.6,flat,0.0,reversable defect,1
+51.0,Male,non-anginal pain,125.0,245.0,fastingBloodSugar_true,Left ventricular hypertrophy,166.0,No Angina,2.4,flat,0.0,normal,0
+59.0,Male,atypical angina,140.0,221.0,fastingBloodSugar_false,Normal,164.0,Yes Angina,0.0,upsloping,0.0,normal,0
+59.0,Male,typical angina,170.0,288.0,fastingBloodSugar_false,Left ventricular hypertrophy,159.0,No Angina,0.2,flat,0.0,reversable defect,1
+52.0,Male,atypical angina,128.0,205.0,fastingBloodSugar_true,Normal,184.0,No Angina,0.0,upsloping,0.0,normal,0
+64.0,Male,non-anginal pain,125.0,309.0,fastingBloodSugar_false,Normal,131.0,Yes Angina,1.8,flat,0.0,reversable defect,1
+58.0,Male,non-anginal pain,105.0,240.0,fastingBloodSugar_false,Left ventricular hypertrophy,154.0,Yes Angina,0.6,flat,0.0,reversable defect,0
+47.0,Male,non-anginal pain,108.0,243.0,fastingBloodSugar_false,Normal,152.0,No Angina,0.0,upsloping,0.0,normal,1
+57.0,Male,asymptomatic,165.0,289.0,fastingBloodSugar_true,Left ventricular hypertrophy,124.0,No Angina,1.0,flat,3.0,reversable defect,1
+41.0,Male,non-anginal pain,112.0,250.0,fastingBloodSugar_false,Normal,179.0,No Angina,0.0,upsloping,0.0,normal,0
+45.0,Male,atypical angina,128.0,308.0,fastingBloodSugar_false,Left ventricular hypertrophy,170.0,No Angina,0.0,upsloping,0.0,normal,0
+60.0,Female,non-anginal pain,102.0,318.0,fastingBloodSugar_false,Normal,160.0,No Angina,0.0,upsloping,1.0,normal,0
+52.0,Male,typical angina,152.0,298.0,fastingBloodSugar_true,Normal,178.0,No Angina,1.2,flat,0.0,reversable defect,0
+42.0,Female,asymptomatic,102.0,265.0,fastingBloodSugar_false,Left ventricular hypertrophy,122.0,No Angina,0.6,flat,0.0,normal,0
+67.0,Female,non-anginal pain,115.0,564.0,fastingBloodSugar_false,Left ventricular hypertrophy,160.0,No Angina,1.6,flat,0.0,reversable defect,0
+55.0,Male,asymptomatic,160.0,289.0,fastingBloodSugar_false,Left ventricular hypertrophy,145.0,Yes Angina,0.8,flat,1.0,reversable defect,1
+64.0,Male,asymptomatic,120.0,246.0,fastingBloodSugar_false,Left ventricular hypertrophy,96.0,Yes Angina,2.2,downsloping,1.0,normal,1
+70.0,Male,asymptomatic,130.0,322.0,fastingBloodSugar_false,Left ventricular hypertrophy,109.0,No Angina,2.4,flat,3.0,normal,1
+51.0,Male,asymptomatic,140.0,299.0,fastingBloodSugar_false,Normal,173.0,Yes Angina,1.6,upsloping,0.0,reversable defect,1
+58.0,Male,asymptomatic,125.0,300.0,fastingBloodSugar_false,Left ventricular hypertrophy,171.0,No Angina,0.0,upsloping,2.0,reversable defect,1
+60.0,Male,asymptomatic,140.0,293.0,fastingBloodSugar_false,Left ventricular hypertrophy,170.0,No Angina,1.2,flat,2.0,reversable defect,1
+68.0,Male,non-anginal pain,118.0,277.0,fastingBloodSugar_false,Normal,151.0,No Angina,1.0,upsloping,1.0,reversable defect,0
+46.0,Male,atypical angina,101.0,197.0,fastingBloodSugar_true,Normal,156.0,No Angina,0.0,upsloping,0.0,reversable defect,0
+77.0,Male,asymptomatic,125.0,304.0,fastingBloodSugar_false,Left ventricular hypertrophy,162.0,Yes Angina,0.0,upsloping,3.0,normal,1
+54.0,Female,non-anginal pain,110.0,214.0,fastingBloodSugar_false,Normal,158.0,No Angina,1.6,flat,0.0,normal,0
+58.0,Female,asymptomatic,100.0,248.0,fastingBloodSugar_false,Left ventricular hypertrophy,122.0,No Angina,1.0,flat,0.0,normal,0
+48.0,Male,non-anginal pain,124.0,255.0,fastingBloodSugar_true,Normal,175.0,No Angina,0.0,upsloping,2.0,normal,0
+57.0,Male,asymptomatic,132.0,207.0,fastingBloodSugar_false,Normal,168.0,Yes Angina,0.0,upsloping,0.0,reversable defect,0
+54.0,Female,atypical angina,132.0,288.0,fastingBloodSugar_true,Left ventricular hypertrophy,159.0,Yes Angina,0.0,upsloping,1.0,normal,0
+35.0,Male,asymptomatic,126.0,282.0,fastingBloodSugar_false,Left ventricular hypertrophy,156.0,Yes Angina,0.0,upsloping,0.0,reversable defect,1
+45.0,Female,atypical angina,112.0,160.0,fastingBloodSugar_false,Normal,138.0,No Angina,0.0,flat,0.0,normal,0
+70.0,Male,non-anginal pain,160.0,269.0,fastingBloodSugar_false,Normal,112.0,Yes Angina,2.9,flat,1.0,reversable defect,1
+53.0,Male,asymptomatic,142.0,226.0,fastingBloodSugar_false,Left ventricular hypertrophy,111.0,Yes Angina,0.0,upsloping,0.0,reversable defect,0
+59.0,Female,asymptomatic,174.0,249.0,fastingBloodSugar_false,Normal,143.0,Yes Angina,0.0,flat,0.0,normal,1
+62.0,Female,asymptomatic,140.0,394.0,fastingBloodSugar_false,Left ventricular hypertrophy,157.0,No Angina,1.2,flat,0.0,normal,0
+64.0,Male,asymptomatic,145.0,212.0,fastingBloodSugar_false,Left ventricular hypertrophy,132.0,No Angina,2.0,flat,2.0,fixed defect,1
+57.0,Male,asymptomatic,152.0,274.0,fastingBloodSugar_false,Normal,88.0,Yes Angina,1.2,flat,1.0,reversable defect,1
+52.0,Male,asymptomatic,108.0,233.0,fastingBloodSugar_true,Normal,147.0,No Angina,0.1,upsloping,3.0,reversable defect,0
+56.0,Male,asymptomatic,132.0,184.0,fastingBloodSugar_false,Left ventricular hypertrophy,105.0,Yes Angina,2.1,flat,1.0,fixed defect,1
+43.0,Male,non-anginal pain,130.0,315.0,fastingBloodSugar_false,Normal,162.0,No Angina,1.9,upsloping,1.0,normal,0
+53.0,Male,non-anginal pain,130.0,246.0,fastingBloodSugar_true,Left ventricular hypertrophy,173.0,No Angina,0.0,upsloping,3.0,normal,0
+48.0,Male,asymptomatic,124.0,274.0,fastingBloodSugar_false,Left ventricular hypertrophy,166.0,No Angina,0.5,flat,0.0,reversable defect,1
+56.0,Female,asymptomatic,134.0,409.0,fastingBloodSugar_false,Left ventricular hypertrophy,150.0,Yes Angina,1.9,flat,2.0,reversable defect,1
+42.0,Male,typical angina,148.0,244.0,fastingBloodSugar_false,Left ventricular hypertrophy,178.0,No Angina,0.8,upsloping,2.0,normal,0
+59.0,Male,typical angina,178.0,270.0,fastingBloodSugar_false,Left ventricular hypertrophy,145.0,No Angina,4.2,downsloping,0.0,reversable defect,0
+60.0,Female,asymptomatic,158.0,305.0,fastingBloodSugar_false,Left ventricular hypertrophy,161.0,No Angina,0.0,upsloping,0.0,normal,1
+63.0,Female,atypical angina,140.0,195.0,fastingBloodSugar_false,Normal,179.0,No Angina,0.0,upsloping,2.0,normal,0
+42.0,Male,non-anginal pain,120.0,240.0,fastingBloodSugar_true,Normal,194.0,No Angina,0.8,downsloping,0.0,reversable defect,0
+66.0,Male,atypical angina,160.0,246.0,fastingBloodSugar_false,Normal,120.0,Yes Angina,0.0,flat,3.0,fixed defect,1
+54.0,Male,atypical angina,192.0,283.0,fastingBloodSugar_false,Left ventricular hypertrophy,195.0,No Angina,0.0,upsloping,1.0,reversable defect,1
+69.0,Male,non-anginal pain,140.0,254.0,fastingBloodSugar_false,Left ventricular hypertrophy,146.0,No Angina,2.0,flat,3.0,reversable defect,1
+50.0,Male,non-anginal pain,129.0,196.0,fastingBloodSugar_false,Normal,163.0,No Angina,0.0,upsloping,0.0,normal,0
+51.0,Male,asymptomatic,140.0,298.0,fastingBloodSugar_false,Normal,122.0,Yes Angina,4.2,flat,3.0,reversable defect,1
+62.0,Female,asymptomatic,138.0,294.0,fastingBloodSugar_true,Normal,106.0,No Angina,1.9,flat,3.0,normal,1
+68.0,Female,non-anginal pain,120.0,211.0,fastingBloodSugar_false,Left ventricular hypertrophy,115.0,No Angina,1.5,flat,0.0,normal,0
+67.0,Male,asymptomatic,100.0,299.0,fastingBloodSugar_false,Left ventricular hypertrophy,125.0,Yes Angina,0.9,flat,2.0,normal,1
+69.0,Male,typical angina,160.0,234.0,fastingBloodSugar_true,Left ventricular hypertrophy,131.0,No Angina,0.1,flat,1.0,normal,0
+45.0,Female,asymptomatic,138.0,236.0,fastingBloodSugar_false,Left ventricular hypertrophy,152.0,Yes Angina,0.2,flat,0.0,normal,0
+50.0,Female,atypical angina,120.0,244.0,fastingBloodSugar_false,Normal,162.0,No Angina,1.1,upsloping,0.0,normal,0
+59.0,Male,typical angina,160.0,273.0,fastingBloodSugar_false,Left ventricular hypertrophy,125.0,No Angina,0.0,upsloping,0.0,normal,1
+50.0,Female,asymptomatic,110.0,254.0,fastingBloodSugar_false,Left ventricular hypertrophy,159.0,No Angina,0.0,upsloping,0.0,normal,0
+64.0,Female,asymptomatic,180.0,325.0,fastingBloodSugar_false,Normal,154.0,Yes Angina,0.0,upsloping,0.0,normal,0
+57.0,Male,non-anginal pain,150.0,126.0,fastingBloodSugar_true,Normal,173.0,No Angina,0.2,upsloping,1.0,reversable defect,0
+64.0,Female,non-anginal pain,140.0,313.0,fastingBloodSugar_false,Normal,133.0,No Angina,0.2,upsloping,0.0,reversable defect,0
+43.0,Male,asymptomatic,110.0,211.0,fastingBloodSugar_false,Normal,161.0,No Angina,0.0,upsloping,0.0,reversable defect,0
+45.0,Male,asymptomatic,142.0,309.0,fastingBloodSugar_false,Left ventricular hypertrophy,147.0,Yes Angina,0.0,flat,3.0,reversable defect,1
+58.0,Male,asymptomatic,128.0,259.0,fastingBloodSugar_false,Left ventricular hypertrophy,130.0,Yes Angina,3.0,flat,2.0,reversable defect,1
+50.0,Male,asymptomatic,144.0,200.0,fastingBloodSugar_false,Left ventricular hypertrophy,126.0,Yes Angina,0.9,flat,0.0,reversable defect,1
+55.0,Male,atypical angina,130.0,262.0,fastingBloodSugar_false,Normal,155.0,No Angina,0.0,upsloping,0.0,normal,0
+62.0,Female,asymptomatic,150.0,244.0,fastingBloodSugar_false,Normal,154.0,Yes Angina,1.4,flat,0.0,normal,1
+37.0,Female,non-anginal pain,120.0,215.0,fastingBloodSugar_false,Normal,170.0,No Angina,0.0,upsloping,0.0,normal,0
+38.0,Male,typical angina,120.0,231.0,fastingBloodSugar_false,Normal,182.0,Yes Angina,3.8,flat,0.0,reversable defect,1
+41.0,Male,non-anginal pain,130.0,214.0,fastingBloodSugar_false,Left ventricular hypertrophy,168.0,No Angina,2.0,flat,0.0,normal,0
+66.0,Female,asymptomatic,178.0,228.0,fastingBloodSugar_true,Normal,165.0,Yes Angina,1.0,flat,2.0,reversable defect,1
+52.0,Male,asymptomatic,112.0,230.0,fastingBloodSugar_false,Normal,160.0,No Angina,0.0,upsloping,1.0,normal,1
+56.0,Male,typical angina,120.0,193.0,fastingBloodSugar_false,Left ventricular hypertrophy,162.0,No Angina,1.9,flat,0.0,reversable defect,0
+46.0,Female,atypical angina,105.0,204.0,fastingBloodSugar_false,Normal,172.0,No Angina,0.0,upsloping,0.0,normal,0
+46.0,Female,asymptomatic,138.0,243.0,fastingBloodSugar_false,Left ventricular hypertrophy,152.0,Yes Angina,0.0,flat,0.0,normal,0
+64.0,Female,asymptomatic,130.0,303.0,fastingBloodSugar_false,Normal,122.0,No Angina,2.0,flat,2.0,normal,0
+59.0,Male,asymptomatic,138.0,271.0,fastingBloodSugar_false,Left ventricular hypertrophy,182.0,No Angina,0.0,upsloping,0.0,normal,0
+41.0,Female,non-anginal pain,112.0,268.0,fastingBloodSugar_false,Left ventricular hypertrophy,172.0,Yes Angina,0.0,upsloping,0.0,normal,0
+54.0,Female,non-anginal pain,108.0,267.0,fastingBloodSugar_false,Left ventricular hypertrophy,167.0,No Angina,0.0,upsloping,0.0,normal,0
+39.0,Female,non-anginal pain,94.0,199.0,fastingBloodSugar_false,Normal,179.0,No Angina,0.0,upsloping,0.0,normal,0
+53.0,Male,asymptomatic,123.0,282.0,fastingBloodSugar_false,Normal,95.0,Yes Angina,2.0,flat,2.0,reversable defect,1
+63.0,Female,asymptomatic,108.0,269.0,fastingBloodSugar_false,Normal,169.0,Yes Angina,1.8,flat,2.0,normal,1
+34.0,Female,atypical angina,118.0,210.0,fastingBloodSugar_false,Normal,192.0,No Angina,0.7,upsloping,0.0,normal,0
+47.0,Male,asymptomatic,112.0,204.0,fastingBloodSugar_false,Normal,143.0,No Angina,0.1,upsloping,0.0,normal,0
+67.0,Female,non-anginal pain,152.0,277.0,fastingBloodSugar_false,Normal,172.0,No Angina,0.0,upsloping,1.0,normal,0
+54.0,Male,asymptomatic,110.0,206.0,fastingBloodSugar_false,Left ventricular hypertrophy,108.0,Yes Angina,0.0,flat,1.0,normal,1
+66.0,Male,asymptomatic,112.0,212.0,fastingBloodSugar_false,Left ventricular hypertrophy,132.0,Yes Angina,0.1,upsloping,1.0,normal,1
+52.0,Female,non-anginal pain,136.0,196.0,fastingBloodSugar_false,Left ventricular hypertrophy,169.0,No Angina,0.1,flat,0.0,normal,0
+55.0,Female,asymptomatic,180.0,327.0,fastingBloodSugar_false,ST-T wave abnormality,117.0,Yes Angina,3.4,flat,0.0,normal,1
+49.0,Male,non-anginal pain,118.0,149.0,fastingBloodSugar_false,Left ventricular hypertrophy,126.0,No Angina,0.8,upsloping,3.0,normal,1
+74.0,Female,atypical angina,120.0,269.0,fastingBloodSugar_false,Left ventricular hypertrophy,121.0,Yes Angina,0.2,upsloping,1.0,normal,0
+54.0,Female,non-anginal pain,160.0,201.0,fastingBloodSugar_false,Normal,163.0,No Angina,0.0,upsloping,1.0,normal,0
+54.0,Male,asymptomatic,122.0,286.0,fastingBloodSugar_false,Left ventricular hypertrophy,116.0,Yes Angina,3.2,flat,2.0,normal,1
+56.0,Male,asymptomatic,130.0,283.0,fastingBloodSugar_true,Left ventricular hypertrophy,103.0,Yes Angina,1.6,downsloping,0.0,reversable defect,1
+46.0,Male,asymptomatic,120.0,249.0,fastingBloodSugar_false,Left ventricular hypertrophy,144.0,No Angina,0.8,upsloping,0.0,reversable defect,1
+49.0,Female,atypical angina,134.0,271.0,fastingBloodSugar_false,Normal,162.0,No Angina,0.0,flat,0.0,normal,0
+42.0,Male,atypical angina,120.0,295.0,fastingBloodSugar_false,Normal,162.0,No Angina,0.0,upsloping,0.0,normal,0
+41.0,Male,atypical angina,110.0,235.0,fastingBloodSugar_false,Normal,153.0,No Angina,0.0,upsloping,0.0,normal,0
+41.0,Female,atypical angina,126.0,306.0,fastingBloodSugar_false,Normal,163.0,No Angina,0.0,upsloping,0.0,normal,0
+49.0,Female,asymptomatic,130.0,269.0,fastingBloodSugar_false,Normal,163.0,No Angina,0.0,upsloping,0.0,normal,0
+61.0,Male,typical angina,134.0,234.0,fastingBloodSugar_false,Normal,145.0,No Angina,2.6,flat,2.0,normal,1
+60.0,Female,non-anginal pain,120.0,178.0,fastingBloodSugar_true,Normal,96.0,No Angina,0.0,upsloping,0.0,normal,0
+67.0,Male,asymptomatic,120.0,237.0,fastingBloodSugar_false,Normal,71.0,No Angina,1.0,flat,0.0,normal,1
+58.0,Male,asymptomatic,100.0,234.0,fastingBloodSugar_false,Normal,156.0,No Angina,0.1,upsloping,1.0,reversable defect,1
+47.0,Male,asymptomatic,110.0,275.0,fastingBloodSugar_false,Left ventricular hypertrophy,118.0,Yes Angina,1.0,flat,1.0,normal,1
+52.0,Male,asymptomatic,125.0,212.0,fastingBloodSugar_false,Normal,168.0,No Angina,1.0,upsloping,2.0,reversable defect,1
+62.0,Male,atypical angina,128.0,208.0,fastingBloodSugar_true,Left ventricular hypertrophy,140.0,No Angina,0.0,upsloping,0.0,normal,0
+57.0,Male,asymptomatic,110.0,201.0,fastingBloodSugar_false,Normal,126.0,Yes Angina,1.5,flat,0.0,fixed defect,0
+58.0,Male,asymptomatic,146.0,218.0,fastingBloodSugar_false,Normal,105.0,No Angina,2.0,flat,1.0,reversable defect,1
+64.0,Male,asymptomatic,128.0,263.0,fastingBloodSugar_false,Normal,105.0,Yes Angina,0.2,flat,1.0,reversable defect,0
+51.0,Female,non-anginal pain,120.0,295.0,fastingBloodSugar_false,Left ventricular hypertrophy,157.0,No Angina,0.6,upsloping,0.0,normal,0
+43.0,Male,asymptomatic,115.0,303.0,fastingBloodSugar_false,Normal,181.0,No Angina,1.2,flat,0.0,normal,0
+42.0,Female,non-anginal pain,120.0,209.0,fastingBloodSugar_false,Normal,173.0,No Angina,0.0,flat,0.0,normal,0
+67.0,Female,asymptomatic,106.0,223.0,fastingBloodSugar_false,Normal,142.0,No Angina,0.3,upsloping,2.0,normal,0
+76.0,Female,non-anginal pain,140.0,197.0,fastingBloodSugar_false,ST-T wave abnormality,116.0,No Angina,1.1,flat,0.0,normal,0
+70.0,Male,atypical angina,156.0,245.0,fastingBloodSugar_false,Left ventricular hypertrophy,143.0,No Angina,0.0,upsloping,0.0,normal,0
+57.0,Male,atypical angina,124.0,261.0,fastingBloodSugar_false,Normal,141.0,No Angina,0.3,upsloping,0.0,reversable defect,1
+44.0,Female,non-anginal pain,118.0,242.0,fastingBloodSugar_false,Normal,149.0,No Angina,0.3,flat,1.0,normal,0
+58.0,Female,atypical angina,136.0,319.0,fastingBloodSugar_true,Left ventricular hypertrophy,152.0,No Angina,0.0,upsloping,2.0,normal,1
+60.0,Female,typical angina,150.0,240.0,fastingBloodSugar_false,Normal,171.0,No Angina,0.9,upsloping,0.0,normal,0
+44.0,Male,non-anginal pain,120.0,226.0,fastingBloodSugar_false,Normal,169.0,No Angina,0.0,upsloping,0.0,normal,0
+61.0,Male,asymptomatic,138.0,166.0,fastingBloodSugar_false,Left ventricular hypertrophy,125.0,Yes Angina,3.6,flat,1.0,normal,1
+42.0,Male,asymptomatic,136.0,315.0,fastingBloodSugar_false,Normal,125.0,Yes Angina,1.8,flat,0.0,fixed defect,1
+59.0,Male,non-anginal pain,126.0,218.0,fastingBloodSugar_true,Normal,134.0,No Angina,2.2,flat,1.0,fixed defect,1
+40.0,Male,asymptomatic,152.0,223.0,fastingBloodSugar_false,Normal,181.0,No Angina,0.0,upsloping,0.0,reversable defect,1
+42.0,Male,non-anginal pain,130.0,180.0,fastingBloodSugar_false,Normal,150.0,No Angina,0.0,upsloping,0.0,normal,0
+61.0,Male,asymptomatic,140.0,207.0,fastingBloodSugar_false,Left ventricular hypertrophy,138.0,Yes Angina,1.9,upsloping,1.0,reversable defect,1
+66.0,Male,asymptomatic,160.0,228.0,fastingBloodSugar_false,Left ventricular hypertrophy,138.0,No Angina,2.3,upsloping,0.0,fixed defect,0
+46.0,Male,asymptomatic,140.0,311.0,fastingBloodSugar_false,Normal,120.0,Yes Angina,1.8,flat,2.0,reversable defect,1
+71.0,Female,asymptomatic,112.0,149.0,fastingBloodSugar_false,Normal,125.0,No Angina,1.6,flat,0.0,normal,0
+59.0,Male,typical angina,134.0,204.0,fastingBloodSugar_false,Normal,162.0,No Angina,0.8,upsloping,2.0,normal,1
+64.0,Male,typical angina,170.0,227.0,fastingBloodSugar_false,Left ventricular hypertrophy,155.0,No Angina,0.6,flat,0.0,reversable defect,0
+66.0,Female,non-anginal pain,146.0,278.0,fastingBloodSugar_false,Left ventricular hypertrophy,152.0,No Angina,0.0,flat,1.0,normal,0
+39.0,Female,non-anginal pain,138.0,220.0,fastingBloodSugar_false,Normal,152.0,No Angina,0.0,flat,0.0,normal,0
+57.0,Male,atypical angina,154.0,232.0,fastingBloodSugar_false,Left ventricular hypertrophy,164.0,No Angina,0.0,upsloping,1.0,normal,1
+58.0,Female,asymptomatic,130.0,197.0,fastingBloodSugar_false,Normal,131.0,No Angina,0.6,flat,0.0,normal,0
+57.0,Male,asymptomatic,110.0,335.0,fastingBloodSugar_false,Normal,143.0,Yes Angina,3.0,flat,1.0,reversable defect,1
+47.0,Male,non-anginal pain,130.0,253.0,fastingBloodSugar_false,Normal,179.0,No Angina,0.0,upsloping,0.0,normal,0
+55.0,Female,asymptomatic,128.0,205.0,fastingBloodSugar_false,ST-T wave abnormality,130.0,Yes Angina,2.0,flat,1.0,reversable defect,1
+35.0,Male,atypical angina,122.0,192.0,fastingBloodSugar_false,Normal,174.0,No Angina,0.0,upsloping,0.0,normal,0
+61.0,Male,asymptomatic,148.0,203.0,fastingBloodSugar_false,Normal,161.0,No Angina,0.0,upsloping,1.0,reversable defect,1
+58.0,Male,asymptomatic,114.0,318.0,fastingBloodSugar_false,ST-T wave abnormality,140.0,No Angina,4.4,downsloping,3.0,fixed defect,1
+58.0,Female,asymptomatic,170.0,225.0,fastingBloodSugar_true,Left ventricular hypertrophy,146.0,Yes Angina,2.8,flat,2.0,fixed defect,1
+56.0,Male,atypical angina,130.0,221.0,fastingBloodSugar_false,Left ventricular hypertrophy,163.0,No Angina,0.0,upsloping,0.0,reversable defect,0
+56.0,Male,atypical angina,120.0,240.0,fastingBloodSugar_false,Normal,169.0,No Angina,0.0,downsloping,0.0,normal,0
+67.0,Male,non-anginal pain,152.0,212.0,fastingBloodSugar_false,Left ventricular hypertrophy,150.0,No Angina,0.8,flat,0.0,reversable defect,1
+55.0,Female,atypical angina,132.0,342.0,fastingBloodSugar_false,Normal,166.0,No Angina,1.2,upsloping,0.0,normal,0
+44.0,Male,asymptomatic,120.0,169.0,fastingBloodSugar_false,Normal,144.0,Yes Angina,2.8,downsloping,0.0,fixed defect,1
+63.0,Male,asymptomatic,140.0,187.0,fastingBloodSugar_false,Left ventricular hypertrophy,144.0,Yes Angina,4.0,upsloping,2.0,reversable defect,1
+63.0,Female,asymptomatic,124.0,197.0,fastingBloodSugar_false,Normal,136.0,Yes Angina,0.0,flat,0.0,normal,1
+41.0,Male,atypical angina,120.0,157.0,fastingBloodSugar_false,Normal,182.0,No Angina,0.0,upsloping,0.0,normal,0
+59.0,Male,asymptomatic,164.0,176.0,fastingBloodSugar_true,Left ventricular hypertrophy,90.0,No Angina,1.0,flat,2.0,fixed defect,1
+57.0,Female,asymptomatic,140.0,241.0,fastingBloodSugar_false,Normal,123.0,Yes Angina,0.2,flat,0.0,reversable defect,1
+45.0,Male,typical angina,110.0,264.0,fastingBloodSugar_false,Normal,132.0,No Angina,1.2,flat,0.0,reversable defect,1
+68.0,Male,asymptomatic,144.0,193.0,fastingBloodSugar_true,Normal,141.0,No Angina,3.4,flat,2.0,reversable defect,1
+57.0,Male,asymptomatic,130.0,131.0,fastingBloodSugar_false,Normal,115.0,Yes Angina,1.2,flat,1.0,reversable defect,1
+57.0,Female,atypical angina,130.0,236.0,fastingBloodSugar_false,Left ventricular hypertrophy,174.0,No Angina,0.0,flat,1.0,normal,1
