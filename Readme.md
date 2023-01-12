@@ -8,6 +8,7 @@ En este repositorio se encuentra el proyecto correspondiente a la PR2 de la asig
   - dataset_proc.csv Contiene los datos procesados y listos para el análisis
 - Models/ Contiene los modelos entrenados con mayor performance
 - PR_2.ipynb Contiene la ejecución del código y los análisis, se trata de la memoria del proyecto
+- PR_2.pdf Es la versión en pdf del fichero notebook de la memoria.
 - resultsModels.csv Contiene los resultados del entrenamiento de los diferentes modelos probados
 
 Autores:
